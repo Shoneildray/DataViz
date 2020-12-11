@@ -13,15 +13,15 @@
                > Redéfinition du sujet : "Nos Habitudes de Consommation Alimentaire et leur Incidence sur l'Ecosystème Terrestre"  
                > Première base de données : https://www.kaggle.com/dorbicycle/world-foodfeed-production  
                
-**06/12/2020** au **09/12/2020** 
-               > Etat de l'art sur le sujet
-               > Visualisations intéressantes
-               > Disponibilité des données
+**06/12/2020** au **09/12/2020**   
+               > Etat de l'art sur le sujet   
+               > Visualisations intéressantes   
+               > Disponibilité des données   
                
-**09/12/2020**    
-               > Partage des recherches effectuées
-               > Première ébauche du document de cadrage
-               > Pistes esquisses visualisations
+**09/12/2020**      
+               > Partage des recherches effectuées  
+               > Première ébauche du document de cadrage  
+               > Pistes esquisses visualisations  
              
-**12/12/2020** 
-               > Document de cadrage - version définitive : Tâches à accomplir, distribution des roles, esquisses.
+**12/12/2020**   
+               > Document de cadrage - version définitive : Tâches à accomplir, distribution des roles, esquisses.  
