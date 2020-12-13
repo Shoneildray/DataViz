@@ -26,5 +26,5 @@
 **12/12/2020**   
                > Document de cadrage - version définitive : Tâches à accomplir, distribution des roles, esquisses.  
 
-**13/12/2020**
+**13/12/2020**  
                > Peer-review du groupe n°
