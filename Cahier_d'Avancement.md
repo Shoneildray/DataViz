@@ -24,15 +24,15 @@
                > Pistes esquisses visualisations  
              
 **12/12/2020**   
-               > Document de cadrage - version définitive : Tâches à accomplir, distribution des roles, esquisses.  
+               > Document de cadrage - version définitive : Tâches à accomplir, distribution des rôles, esquisses.  
 
 **13/12/2020**  
                > Peer-review du groupe n°12  
             
 **14/12/2020**  
                > Recherche des jeux de données pour réaliser les visualisations  
-               > Validation avec l'enseignant des visualisations et du projet.   
-                 ** Conseils ** :   
+               > Validation avec l'enseignant des visualisations et du projet.  
+                 **Conseils** :   
                  - Rester sur 3/4 visualisations  
                  - Les visualisations peuvent être simples  
                  - Quizz en scrolling  
