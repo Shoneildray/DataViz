@@ -27,4 +27,15 @@
                > Document de cadrage - version définitive : Tâches à accomplir, distribution des roles, esquisses.  
 
 **13/12/2020**  
-               > Peer-review du groupe n°
+               > Peer-review du groupe n°12  
+            
+**14/12/2020**  
+               > Recherche des jeux de données pour réaliser les visualisations  
+               > Validation avec l'enseignant des visualisations et du projet.   
+                 ** Conseils ** :   
+                 - Rester sur 3/4 visualisations  
+                 - Les visualisations peuvent être simples  
+                 - Quizz en scrolling  
+                 - Visualisation n°1 : Faire une représentation à plat (oublier le cercle), qui sera plus simple à coder et plus lisible  
+                 - Visualisation n°3 - version 1 : Penser à des représentations "small multiples".  
+       
