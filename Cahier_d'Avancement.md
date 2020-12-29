@@ -38,4 +38,7 @@
                  - Quizz en scrolling  
                  - Visualisation n°1 : Faire une représentation à plat (oublier le cercle), qui sera plus simple à coder et plus lisible  
                  - Visualisation n°3 - version 1 : Penser à des représentations "small multiples".  
+                   
+**29/12/2020**  
+               > Fin de recherche des jeux de données
        
