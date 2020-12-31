@@ -42,3 +42,5 @@
 **29/12/2020**  
                > Fin de recherche des jeux de données
        
+**31/12/2020**  
+               > Abandon visualisation n°2 sur les pertes et gaspillage alimentaire : données insuffisantes.
