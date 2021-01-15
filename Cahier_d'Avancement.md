@@ -43,7 +43,7 @@
                > Fin de recherche des jeux de données
        
 **31/12/2020**  
-               > Abandon visualisation n°2 sur les pertes et gaspillage alimentaire : données insuffisantes.
+               > Abandon visualisation n°2 sur les pertes et le gaspillage alimentaires : données insuffisantes.
                
 **01/01/2021**  
                > Abandon visualisation n°3 - version 1 sur l'émission de CO2 liée aux transports alimentaires : difficulté à trouver des données liées au transport de nourriture uniquement + tout bien considéré, visualisation avec peu de valeur ajoutée.    
@@ -55,7 +55,7 @@
                - Elena cherche des données en lien avec les pertes & le gaspillage alimentaire et réfléchi à une nouvelle visualisation 
                
 **06/01/2021**  
-               > Travail en groupe l'après-midi. Données trouvées pour la nouvelle visualisation 2. Première idée de visualisation : [Tableau Public](https://public.tableau.com/profile/marcin3282#!/vizhome/MM_W16_2020_WHATISTHECARBONFOOTPRINTOFYOURFOOD/Dashboard1). Une courbe par région du monde, un point par étape de la chaîne d'approvisionnement alimentaire, une liste déroulante pour choisir la catégorie de produit.   
+               > Travail en groupe l'après-midi. Données trouvées pour la nouvelle visualisation n°2. Première idée de représentation : [Tableau Public](https://public.tableau.com/profile/marcin3282#!/vizhome/MM_W16_2020_WHATISTHECARBONFOOTPRINTOFYOURFOOD/Dashboard1). Une courbe par région du monde, un point par étape de la chaîne d'approvisionnement alimentaire, une liste déroulante pour choisir la catégorie de produit.   
 
 **07/01/2021**   
               > Abandon de l'idée de représentation en courbes superposées pour la visualisation n°2 : trop de valeurs très proches voire identiques (notamment pour les régions du monde à plus haut revenu) donc risque d'obtenir un graphique peu lisible et peu intéressant.  
