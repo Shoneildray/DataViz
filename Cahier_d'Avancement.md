@@ -44,3 +44,27 @@
        
 **31/12/2020**  
                > Abandon visualisation n°2 sur les pertes et gaspillage alimentaire : données insuffisantes.
+               
+**01/01/2021**  
+               > Abandon visualisation n°3 - version 1 sur l'émission de CO2 liée aux transports alimentaires : difficulté à trouver des données liées au transport de nourriture uniquement + tout bien considéré, visualisation avec peu de valeur ajoutée.    
+
+**03/01/2021**    
+               > Point Discord sur l'avancement du projet :  
+               - Amal travaille sur la visualisation n°1  
+               - Bastien a fini le premier jet de sa visualisation et travaille sur le squelette du quizz  
+               - Elena cherche des données en lien avec les pertes & le gaspillage alimentaire et réfléchi à une nouvelle visualisation 
+               
+**06/01/2021**  
+               > Travail en groupe l'après-midi. Données trouvées pour la nouvelle visualisation 2. Première idée de visualisation : [Tableau Public](https://public.tableau.com/profile/marcin3282#!/vizhome/MM_W16_2020_WHATISTHECARBONFOOTPRINTOFYOURFOOD/Dashboard1). Une courbe par région du monde, un point par étape de la chaîne d'approvisionnement alimentaire, une liste déroulante pour choisir la catégorie de produit.   
+
+**07/01/2021**   
+              > Abandon de l'idée de représentation en courbes superposées pour la visualisation n°2 : trop de valeurs très proches voire identiques (notamment pour les régions du monde à plus haut revenu) donc risque d'obtenir un graphique peu lisible et peu intéressant.  
+
+**09/01/2021**  
+              > Après de nombreuses recherches infructueuses, choix de partir sur le même type de représentations que celles de l'article dont sont issues les données : des barplots.   
+              **Apports :**   
+              - Premier graphique : Graphique intéractif ; Ajout de l'information PIB/tête et tri selon cette variable   
+              - Deuxième graphique : Barlot dynamique qui change en fonction de la catégorie d'aliments sélectionnée ; lors du passage de la souris sur l'une des étapes du processus pour l'une des régions du monde, mise en surbrillance de cette étape pour l'ensemble des régions du monde, afin de faciliter la comparaison ; affichage de la valeur exacte lors du survol ; ordre du premier graphique conservé.   
+              **Limite :**  
+              - Deuxième graphique : Cumul trompeur du barplot, que l'on aimerait interpréter comme le % de pertes et de gaspillage alimentaire total. Or, ce n'est pas le cas.   
+
