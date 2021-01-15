@@ -62,9 +62,33 @@
 
 **09/01/2021**  
               > Après de nombreuses recherches infructueuses, choix de partir sur le même type de représentations que celles de l'article dont sont issues les données : des barplots.   
-              **Apports :**   
+              APPORTS :   
               - Premier graphique : Graphique intéractif ; Ajout de l'information PIB/tête et tri selon cette variable   
               - Deuxième graphique : Barlot dynamique qui change en fonction de la catégorie d'aliments sélectionnée ; lors du passage de la souris sur l'une des étapes du processus pour l'une des régions du monde, mise en surbrillance de cette étape pour l'ensemble des régions du monde, afin de faciliter la comparaison ; affichage de la valeur exacte lors du survol ; ordre du premier graphique conservé.   
-              **Limite :**  
+              LIMITE :  
               - Deuxième graphique : Cumul trompeur du barplot, que l'on aimerait interpréter comme le % de pertes et de gaspillage alimentaire total. Or, ce n'est pas le cas.   
 
+**10/01/2021**  
+             > Premiers retours sur la visualisation n°1 codée par Amal.  
+             > Premiers retours sur la visualisation n°3 et le squelette du quiz codés par Bastien.
+             > Mise en commun des codes dans une sandbox.  
+ 
+**11/01/2021**  
+             > Premiers retours sur la mise en forme du quiz faite par Amal.  
+
+**12/01/2021**
+             > Premiers retours sur les graphiques de la visualisation n°2 codée par Elena.
+             > Point Discord    
+
+**13/01/2021**  
+             > Dernières modifications avant l'oral  
+             > Soutenance de projet  
+             **Retours** :  
+             - visu 1 -> peut on filtrer ? (Oui)   
+             - visu 2.1 -> ok  
+             - visu 2.2 -> profiter de l'espace à droite - changer / clarifier  
+             - visu 4 -> mettre un meilleur lead  
+             
+**15/01/2021**  
+             > Point Discord avec l'enseignant pour discuter de la visualisation n°2.2  
+             > Choix de partir sur un [Small multiples](https://www.thinkoutsidetheslide.com/wp-content/uploads/2015/04/SmallMultiples488.png)  
