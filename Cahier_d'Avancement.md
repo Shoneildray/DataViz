@@ -69,15 +69,15 @@
               - Deuxième graphique : Cumul trompeur du barplot, que l'on aimerait interpréter comme le % de pertes et de gaspillage alimentaire total. Or, ce n'est pas le cas.   
 
 **10/01/2021**  
-             > Premiers retours sur la visualisation n°1 codée par Amal.  
-             > Premiers retours sur la visualisation n°3 et le squelette du quiz codés par Bastien.
+             > Premiers retours sur la visualisation n°1 codée par Amal.    
+             > Premiers retours sur la visualisation n°3 et le squelette du quiz codés par Bastien.    
              > Mise en commun des codes dans une sandbox.  
  
 **11/01/2021**  
              > Premiers retours sur la mise en forme du quiz faite par Amal.  
 
-**12/01/2021**
-             > Premiers retours sur les graphiques de la visualisation n°2 codée par Elena.
+**12/01/2021**   
+             > Premiers retours sur les graphiques de la visualisation n°2 codée par Elena.   
              > Point Discord    
 
 **13/01/2021**  
