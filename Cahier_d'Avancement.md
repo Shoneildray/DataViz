@@ -52,7 +52,7 @@
                > Point Discord sur l'avancement du projet :  
                - Amal travaille sur la visualisation n°1  
                - Bastien a fini le premier jet de sa visualisation et travaille sur le squelette du quizz  
-               - Elena cherche des données en lien avec les pertes & le gaspillage alimentaire et réfléchi à une nouvelle visualisation 
+               - Elena cherche des données en lien avec les pertes & le gaspillage alimentaire et réfléchit à une nouvelle visualisation 
                
 **06/01/2021**  
                > Travail en groupe l'après-midi. Données trouvées pour la nouvelle visualisation n°2. Première idée de représentation : [Tableau Public](https://public.tableau.com/profile/marcin3282#!/vizhome/MM_W16_2020_WHATISTHECARBONFOOTPRINTOFYOURFOOD/Dashboard1). Une courbe par région du monde, un point par étape de la chaîne d'approvisionnement alimentaire, une liste déroulante pour choisir la catégorie de produit.   
