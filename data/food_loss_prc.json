@@ -1,0 +1,541 @@
+{
+  "Cereals": [
+    {
+      "step": "agriculture",
+      "values": [
+        { "region": "Europe", "value": "2" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "2" },
+        { "region": "Asie Industrialisee", "value": "2" },
+        { "region": "Afrique Subsaharienne", "value": "6" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "6"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "6" },
+        { "region": "Amerique Latine", "value": "6" }
+      ]
+    },
+    {
+      "step": "postharvest",
+      "values": [
+        { "region": "Europe", "value": "4" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "2" },
+        { "region": "Asie Industrialisee", "value": "10" },
+        { "region": "Afrique Subsaharienne", "value": "8" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "8"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "7" },
+        { "region": "Amerique Latine", "value": "4" }
+      ]
+    },
+    {
+      "step": "processing",
+      "values": [
+        { "region": "Europe", "value": "4" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "4" },
+        { "region": "Asie Industrialisee", "value": "4" },
+        { "region": "Afrique Subsaharienne", "value": "3.5" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "3.8"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "3.5" },
+        { "region": "Amerique Latine", "value": "3.8" }
+      ]
+    },
+    {
+      "step": "distribution",
+      "values": [
+        { "region": "Europe", "value": "2" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "2" },
+        { "region": "Asie Industrialisee", "value": "2" },
+        { "region": "Afrique Subsaharienne", "value": "2" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "4"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "2" },
+        { "region": "Amerique Latine", "value": "4" }
+      ]
+    },
+    {
+      "step": "consumption",
+      "values": [
+        { "region": "Europe", "value": "25" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "27" },
+        { "region": "Asie Industrialisee", "value": "20" },
+        { "region": "Afrique Subsaharienne", "value": "1" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "12"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "3" },
+        { "region": "Amerique Latine", "value": "10" }
+      ]
+    }
+  ],
+  "Roots_tubers": [
+    {
+      "step": "agriculture",
+      "values": [
+        { "region": "Europe", "value": "20" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "20" },
+        { "region": "Asie Industrialisee", "value": "20" },
+        { "region": "Afrique Subsaharienne", "value": "14" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "6"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "6" },
+        { "region": "Amerique Latine", "value": "14" }
+      ]
+    },
+    {
+      "step": "postharvest",
+      "values": [
+        { "region": "Europe", "value": "9" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "10" },
+        { "region": "Asie Industrialisee", "value": "7" },
+        { "region": "Afrique Subsaharienne", "value": "18" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "10"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "19" },
+        { "region": "Amerique Latine", "value": "14" }
+      ]
+    },
+    {
+      "step": "processing",
+      "values": [
+        { "region": "Europe", "value": "15" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "15" },
+        { "region": "Asie Industrialisee", "value": "15" },
+        { "region": "Afrique Subsaharienne", "value": "15" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "12"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "10" },
+        { "region": "Amerique Latine", "value": "12" }
+      ]
+    },
+    {
+      "step": "distribution",
+      "values": [
+        { "region": "Europe", "value": "7" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "7" },
+        { "region": "Asie Industrialisee", "value": "9" },
+        { "region": "Afrique Subsaharienne", "value": "5" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "4"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "11" },
+        { "region": "Amerique Latine", "value": "3" }
+      ]
+    },
+    {
+      "step": "consumption",
+      "values": [
+        { "region": "Europe", "value": "17" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "30" },
+        { "region": "Asie Industrialisee", "value": "10" },
+        { "region": "Afrique Subsaharienne", "value": "2" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "6"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "3" },
+        { "region": "Amerique Latine", "value": "4" }
+      ]
+    }
+  ],
+  "Oliseeds_pulses": [
+    {
+      "step": "agriculture",
+      "values": [
+        { "region": "Europe", "value": "10" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "12" },
+        { "region": "Asie Industrialisee", "value": "6" },
+        { "region": "Afrique Subsaharienne", "value": "12" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "15"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "7" },
+        { "region": "Amerique Latine", "value": "6" }
+      ]
+    },
+    {
+      "step": "postharvest",
+      "values": [
+        { "region": "Europe", "value": "1" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "0" },
+        { "region": "Asie Industrialisee", "value": "3" },
+        { "region": "Afrique Subsaharienne", "value": "8" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "6"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "12" },
+        { "region": "Amerique Latine", "value": "3" }
+      ]
+    },
+    {
+      "step": "processing",
+      "values": [
+        { "region": "Europe", "value": "5" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "5" },
+        { "region": "Asie Industrialisee", "value": "5" },
+        { "region": "Afrique Subsaharienne", "value": "8" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "8"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "8" },
+        { "region": "Amerique Latine", "value": "8" }
+      ]
+    },
+    {
+      "step": "distribution",
+      "values": [
+        { "region": "Europe", "value": "1" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "1" },
+        { "region": "Asie Industrialisee", "value": "1" },
+        { "region": "Afrique Subsaharienne", "value": "2" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "2"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "2" },
+        { "region": "Amerique Latine", "value": "2" }
+      ]
+    },
+    {
+      "step": "consumption",
+      "values": [
+        { "region": "Europe", "value": "4" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "4" },
+        { "region": "Asie Industrialisee", "value": "4" },
+        { "region": "Afrique Subsaharienne", "value": "1" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "2"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "1" },
+        { "region": "Amerique Latine", "value": "2" }
+      ]
+    }
+  ],
+  "Fruits_vegetables": [
+    {
+      "step": "agriculture",
+      "values": [
+        { "region": "Europe", "value": "20" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "20" },
+        { "region": "Asie Industrialisee", "value": "10" },
+        { "region": "Afrique Subsaharienne", "value": "10" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "17"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "15" },
+        { "region": "Amerique Latine", "value": "20" }
+      ]
+    },
+    {
+      "step": "postharvest",
+      "values": [
+        { "region": "Europe", "value": "5" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "4" },
+        { "region": "Asie Industrialisee", "value": "8" },
+        { "region": "Afrique Subsaharienne", "value": "9" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "10"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "9" },
+        { "region": "Amerique Latine", "value": "10" }
+      ]
+    },
+    {
+      "step": "processing",
+      "values": [
+        { "region": "Europe", "value": "2" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "2" },
+        { "region": "Asie Industrialisee", "value": "2" },
+        { "region": "Afrique Subsaharienne", "value": "25" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "20"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "25" },
+        { "region": "Amerique Latine", "value": "20" }
+      ]
+    },
+    {
+      "step": "distribution",
+      "values": [
+        { "region": "Europe", "value": "10" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "12" },
+        { "region": "Asie Industrialisee", "value": "8" },
+        { "region": "Afrique Subsaharienne", "value": "17" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "15"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "10" },
+        { "region": "Amerique Latine", "value": "12" }
+      ]
+    },
+    {
+      "step": "consumption",
+      "values": [
+        { "region": "Europe", "value": "19" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "28" },
+        { "region": "Asie Industrialisee", "value": "15" },
+        { "region": "Afrique Subsaharienne", "value": "5" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "12"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "7" },
+        { "region": "Amerique Latine", "value": "10" }
+      ]
+    }
+  ],
+  "Meat": [
+    {
+      "step": "agriculture",
+      "values": [
+        { "region": "Europe", "value": "3.1" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "3.5" },
+        { "region": "Asie Industrialisee", "value": "2.9" },
+        { "region": "Afrique Subsaharienne", "value": "15" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "6.6"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "5.1" },
+        { "region": "Amerique Latine", "value": "5.3" }
+      ]
+    },
+    {
+      "step": "postharvest",
+      "values": [
+        { "region": "Europe", "value": "0.7" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "1" },
+        { "region": "Asie Industrialisee", "value": "0.6" },
+        { "region": "Afrique Subsaharienne", "value": "0.7" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "0.2"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "0.3" },
+        { "region": "Amerique Latine", "value": "1.1" }
+      ]
+    },
+    {
+      "step": "processing",
+      "values": [
+        { "region": "Europe", "value": "5" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "5" },
+        { "region": "Asie Industrialisee", "value": "5" },
+        { "region": "Afrique Subsaharienne", "value": "5" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "5"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "5" },
+        { "region": "Amerique Latine", "value": "5" }
+      ]
+    },
+    {
+      "step": "distribution",
+      "values": [
+        { "region": "Europe", "value": "4" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "4" },
+        { "region": "Asie Industrialisee", "value": "6" },
+        { "region": "Afrique Subsaharienne", "value": "7" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "5"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "7" },
+        { "region": "Amerique Latine", "value": "5" }
+      ]
+    },
+    {
+      "step": "consumption",
+      "values": [
+        { "region": "Europe", "value": "11" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "11" },
+        { "region": "Asie Industrialisee", "value": "8" },
+        { "region": "Afrique Subsaharienne", "value": "2" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "8"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "4" },
+        { "region": "Amerique Latine", "value": "6" }
+      ]
+    }
+  ],
+  "Fish": [
+    {
+      "step": "agriculture",
+      "values": [
+        { "region": "Europe", "value": "9.4" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "12" },
+        { "region": "Asie Industrialisee", "value": "15" },
+        { "region": "Afrique Subsaharienne", "value": "5.7" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "6.6"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "8.2" },
+        { "region": "Amerique Latine", "value": "5.7" }
+      ]
+    },
+    {
+      "step": "postharvest",
+      "values": [
+        { "region": "Europe", "value": "0.5" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "0.5" },
+        { "region": "Asie Industrialisee", "value": "2" },
+        { "region": "Afrique Subsaharienne", "value": "6" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "5"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "6" },
+        { "region": "Amerique Latine", "value": "5" }
+      ]
+    },
+    {
+      "step": "processing",
+      "values": [
+        { "region": "Europe", "value": "6" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "6" },
+        { "region": "Asie Industrialisee", "value": "6" },
+        { "region": "Afrique Subsaharienne", "value": "9" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "9"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "9" },
+        { "region": "Amerique Latine", "value": "9" }
+      ]
+    },
+    {
+      "step": "distribution",
+      "values": [
+        { "region": "Europe", "value": "9" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "9" },
+        { "region": "Asie Industrialisee", "value": "11" },
+        { "region": "Afrique Subsaharienne", "value": "15" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "10"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "15" },
+        { "region": "Amerique Latine", "value": "10" }
+      ]
+    },
+    {
+      "step": "consumption",
+      "values": [
+        { "region": "Europe", "value": "11" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "33" },
+        { "region": "Asie Industrialisee", "value": "8" },
+        { "region": "Afrique Subsaharienne", "value": "2" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "4"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "2" },
+        { "region": "Amerique Latine", "value": "4" }
+      ]
+    }
+  ],
+  "Milk": [
+    {
+      "step": "agriculture",
+      "values": [
+        { "region": "Europe", "value": "3.5" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "3.5" },
+        { "region": "Asie Industrialisee", "value": "3.5" },
+        { "region": "Afrique Subsaharienne", "value": "6" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "3.5"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "3.5" },
+        { "region": "Amerique Latine", "value": "3.5" }
+      ]
+    },
+    {
+      "step": "postharvest",
+      "values": [
+        { "region": "Europe", "value": "0.5" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "0.5" },
+        { "region": "Asie Industrialisee", "value": "1" },
+        { "region": "Afrique Subsaharienne", "value": "11" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "6"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "6" },
+        { "region": "Amerique Latine", "value": "6" }
+      ]
+    },
+    {
+      "step": "processing",
+      "values": [
+        { "region": "Europe", "value": "1.2" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "1.2" },
+        { "region": "Asie Industrialisee", "value": "1.2" },
+        { "region": "Afrique Subsaharienne", "value": "0.1" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "2"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "2" },
+        { "region": "Amerique Latine", "value": "2" }
+      ]
+    },
+    {
+      "step": "distribution",
+      "values": [
+        { "region": "Europe", "value": "0.5" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "0.5" },
+        { "region": "Asie Industrialisee", "value": "0.5" },
+        { "region": "Afrique Subsaharienne", "value": "10" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "8"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "10" },
+        { "region": "Amerique Latine", "value": "8" }
+      ]
+    },
+    {
+      "step": "consumption",
+      "values": [
+        { "region": "Europe", "value": "7" },
+        { "region": "Amerique Septentrionale, Oceanie", "value": "15" },
+        { "region": "Asie Industrialisee", "value": "5" },
+        { "region": "Afrique Subsaharienne", "value": "0.1" },
+        {
+          "region": "Afrique du Nord, Asie Occidentale & Centrale",
+          "value": "2"
+        },
+        { "region": "Asie Meridionale, Asie du Sud-Est", "value": "1" },
+        { "region": "Amerique Latine", "value": "4" }
+      ]
+    }
+  ]
+}

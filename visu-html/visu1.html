@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <style>
+      div.tooltip {
+        position: absolute;
+        text-align: center;
+        width: 240px;
+        height: 120px;
+        padding: 2px;
+        font: 12px sans-serif;
+        background: rgb(228, 228, 228);
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+      }
+      div.infobox {
+        position: absolute;
+        left: 1200px;
+        top: 200px;
+        text-align: center;
+        width: 250px;
+        height: 280px;
+        padding: 10px;
+        font: 12px sans-serif;
+        opacity: 1;
+        background: rgb(202, 226, 252);
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+        padding: 8px;
+      }
+      div.infobox2 {
+        position: absolute;
+        left: 1200px;
+        top: 500px;
+        text-align: center;
+        width: 250px;
+        height: 200px;
+        padding: 10px;
+        font: 12px sans-serif;
+        opacity: 1;
+        background: rgb(206, 248, 213);
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+      }
+      table {
+        width: 100%;
+      }
+      th {
+        height: 30px;
+      }
+      tr:hover {
+        background-color: #f5f5f5;
+      }
+
+      html {
+        font: normal 100%/1.4 Georgia, serif;
+        background: #ffffff;
+      }
+      body {
+        height: 700px;
+        width: 900px;
+      }
+    </style>
+
+    <title>Visu 1</title>
+  </head>
+  <body>
+    <!--dropbox pays -->
+    <select id="selectButton">
+      <option value="Monde">Tous les pays</option>
+    </select>
+
+    <input type="checkbox" id="myCheckbox" />
+    <label for="myCheckbox" id="checkboxLabel">
+      Top 10
+    </label>
+    <br />
+    <br />
+    <br />
+  </body>
+</html>
+
+<script>
+  const width = 1400;
+  const height = 700;
+
+  var svg = d3
+    .select("body")
+    .append("svg")
+    .attr("height", height)
+    .attr("width", width);
+
+  // div table 1 - animal
+  var info_animal = d3
+    .select("body")
+    .append("div")
+    .attr("id", "infobox")
+    .attr("class", "infobox")
+    .style("padding", "8px")
+    .append("h4")
+    .text("Produits d'origine animale");
+
+  // div table 2 - non animal
+  var info_non_animal = d3
+    .select("body")
+    .append("div")
+    .attr("id", "infobox2")
+    .attr("class", "infobox2")
+    .style("padding", "8px")
+    .append("h4")
+    .text("Produit d'origine non animal");
+
+  // get animal data
+  d3.csv("../data/mediane_animal.csv").then((data) => {
+    var animal_table = table(
+      data,
+      ["Produit", "Médiane de l'intensité des émissions"],
+      "#infobox"
+    );
+  });
+  // get non animal data
+  d3.csv("../data/mediane_non_animal.csv").then((data) => {
+    var non_animal_table = table(
+      data,
+      ["Produit", "Médiane de l'intensité des émissions"],
+      "#infobox2"
+    );
+  });
+
+  // Chart !!!!
+
+  d3.csv("../data/visu1.csv").then((data) => {
+    console.log(data);
+    data.forEach(function (d) {
+      d.Disponibilite = parseFloat(parseFloat(d.Disponibilite).toFixed(3));
+      d.Co2 = parseFloat(parseFloat(d.Co2).toFixed(3));
+    });
+
+    // Labels Produits
+    let products = Array.from(new Set(data.map((d) => d.Product)));
+    // Labels Animal/Non-Animal
+    let idh_catego = Array.from(new Set(data.map((d) => d.idh_catego)));
+    console.log(idh_catego);
+    //Pays labels
+    let pays_labels = Array.from(new Set(data.map((d) => d.Pays)));
+    console.log(pays_labels);
+
+    // Select menu
+    // add the options to the button
+    d3.select("#selectButton")
+      .selectAll("myOptions")
+      .data(pays_labels)
+      .enter()
+      .append("option")
+      .text(function (d) {
+        return d;
+      })
+      .attr("value", function (d) {
+        return d;
+      });
+
+    //Définition des échelles X, Y, des couleurs et des echelles
+
+    let xCoords = products.map((d, i) => 120 + i * 100);
+    var xScale = d3.scaleOrdinal().domain(products).range(xCoords);
+
+    // Add the x Axis
+    svg
+      .append("g")
+      .attr("transform", "translate(0," + (height - 20) + ")")
+      .attr("id", "x-axis")
+      .call(d3.axisBottom(xScale));
+
+    var y = d3
+      .scaleLinear()
+      .domain([
+        d3.min(data, function (d) {
+          return d.Co2;
+        }),
+        d3.max(data, function (d) {
+          return d.Co2 + 60;
+        })
+      ])
+      .range([height - 50, 50]);
+
+    // Add the y Axis
+    var yAxis = svg
+      .append("g")
+      .attr("class", "myYaxis")
+      .attr("transform", "translate(60,0)");
+
+    // label y Axis
+    svg
+      .append("text")
+      .attr("class", "y label")
+      .attr("text-anchor", "end")
+      .attr("y", 6)
+      .attr("x", -200)
+      .attr("dy", ".75em")
+      .attr("transform", "rotate(-90)")
+      .text("Emission_Kg_CO2éq/personne/an");
+
+    yAxis.transition().duration(1000).call(d3.axisLeft(y));
+
+    //création d'une échelle de couleurs
+    let color = d3.scaleOrdinal().domain(idh_catego).range(["pink", "red"]);
+    // Mapper les emissions(Kg CO2/person/year) au rayon des cercles
+    let co2_Domain = d3.extent(data.map((d) => d.Co2));
+    co2_Domain = co2_Domain.map((d) => d);
+    var size = d3.scaleLinear().domain(co2_Domain).range([2, 25]);
+
+    // Legend
+    svg
+      .append("text")
+      .attr("x", 1220)
+      .attr("y", 20)
+      .text("- Légende -")
+      .style("font-size", "15px")
+      .attr("alignment-baseline", "middle");
+    svg
+      .append("circle")
+      .attr("cx", 1200)
+      .attr("cy", 50)
+      .attr("r", 6)
+      .style("fill", "red");
+    svg
+      .append("circle")
+      .attr("cx", 1200)
+      .attr("cy", 80)
+      .attr("r", 6)
+      .style("fill", "pink");
+    svg
+      .append("text")
+      .attr("x", 1220)
+      .attr("y", 50)
+      .text("Pays développé")
+      .style("font-size", "15px")
+      .attr("alignment-baseline", "middle");
+    svg
+      .append("text")
+      .attr("x", 1220)
+      .attr("y", 80)
+      .text("Pays en développement")
+      .style("font-size", "15px")
+      .attr("alignment-baseline", "middle");
+
+    // tool tip
+    var div = d3
+      .select("body")
+      .append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0)
+      .style("padding", "8px");
+
+    ///////////////////////////////////////////////////////////// Init
+    // init();
+    var chart = svg
+      .append("g")
+      .selectAll(".circ")
+      .data(data)
+      .enter()
+      .append("circle")
+      .attr("class", "circ")
+      .attr("stroke", "black")
+      .attr("fill", (d) => color(d.idh_catego))
+      .attr("r", (d) => size(d.Co2))
+      .attr("cx", (d) => xScale(d.Product))
+      .attr("cy", (d) => y(d.Co2))
+      // déclencher quand on survole le cercle
+      .on("mouseover", function (d) {
+        div.style("opacity", 0.85);
+        div
+          .html(
+            "<h2> " +
+              d.Pays +
+              "</h2><p> Disponibilité : " +
+              d.Disponibilite +
+              " kg/personne/an </p> <p> Emission Co2 : " +
+              d.Co2 +
+              " Kg_Co2eq/personne/an </p>  "
+          )
+          .style("left", d3.event.pageX + 10 + "px")
+          .style("top", d3.event.pageY - 28 + "px");
+
+        d3.select(this).attr("r", (d) => size(d.Co2 * 3));
+      })
+      .on("mouseout", function (d) {
+        chart.attr("r", (d) => size(d.Co2));
+        div.style("opacity", 0);
+      });
+
+    // Animation / Simulation
+    d3.selectAll(".circ").style("opacity", "0");
+
+    d3.selectAll(".circ").transition().duration(4000).style("opacity", "1");
+
+    //////////////////////////////////////////////////
+    // link : https://github.com/d3/d3-force//
+    //////////////////////////////////////////////////
+
+    let simulation = d3
+      .forceSimulation(data)
+      .force(
+        "x",
+        d3
+          .forceX((d) => {
+            return xScale(d.Product);
+          })
+          // .strength(0.5)
+          .strength(0.5)
+      )
+      .force(
+        "y",
+        d3
+          .forceY(function (d) {
+            return y(d.Co2);
+          })
+          .strength(0.5)
+      )
+      .force(
+        "collide",
+        d3.forceCollide((d) => {
+          return size(d.Co2 * 1.1);
+        })
+      )
+      .alphaDecay(0)
+      .alpha(0.3) // how quickly the simulation advances
+      .on("tick", tick);
+
+    function tick() {
+      d3.selectAll(".circ")
+        .attr("cx", (d) => {
+          return d.x;
+        })
+        .attr("cy", (d) => d.y);
+    }
+
+    let init_decay = setTimeout(function () {
+      console.log("start alpha decay");
+      simulation.alphaDecay(0.05);
+
+      // Listener update on change
+      d3.select("#selectButton").on("change", function (d) {
+        //récuperer le pays choisi
+        var selected_pays = d3.select(this).property("value");
+        // executer la fonction update
+        update(selected_pays);
+      });
+
+      // Top 5 button
+      d3.select("#myCheckbox").on("change", showTop);
+
+      ////////////////////////////////////////////////////////// fonction to update the chart
+      function update(selected_pays) {
+        d3.select("#myCheckbox").remove();
+        d3.select("#checkboxLabel").remove();
+        d3.selectAll(".circ").remove();
+        console.log("circles removed");
+        console.log("pays selectionné :");
+        console.log(selected_pays);
+        // Create data
+        var dataFilter = data.filter(function (d) {
+          if (selected_pays == "Monde") {
+            location.reload();
+            // init();
+            return;
+          } else {
+            size = d3.scaleLinear().domain(co2_Domain).range([10, 40]);
+            return d.Pays == selected_pays;
+          }
+        });
+        console.log("data filter");
+        console.log(dataFilter);
+
+        //update axis//
+        //x Axis
+        var xScale = d3.scaleOrdinal().domain(products).range(xCoords);
+        svg
+          .append("g")
+          .attr("transform", "translate(0," + (height - 20) + ")")
+          .attr("id", "x-axis")
+
+          .call(d3.axisBottom(xScale));
+
+        // y axis
+
+        y.domain([
+          0,
+          d3.max(dataFilter, function (d) {
+            return d.Co2 + 60;
+          })
+        ]);
+        yAxis.transition().duration(1000).call(d3.axisLeft(y));
+
+        // update chart
+        console.log("show new circles");
+        chart = svg
+          .append("g")
+          .selectAll(".circ")
+          .data(dataFilter)
+          .enter()
+          .append("circle")
+          .attr("stroke", "black")
+          .attr("class", "circ")
+          .transition()
+          .duration(1000)
+          .attr("fill", (d) => color(d.idh_catego))
+          .attr("r", (d) => size(d["Co2"]))
+          .attr("cx", (d) => xScale(d.Product))
+          .attr("cy", (d) => y(d.Co2));
+
+        svg
+          .selectAll(".circ")
+          .on("mouseover", function (d) {
+            div.style("opacity", 0.9);
+            div
+              .html(
+                "<h2> " +
+                  d.Pays +
+                  "</h2><p> Disponibilité : " +
+                  d.Disponibilite +
+                  " kg/personne/an </p> <p> Emission Co2 : " +
+                  d.Co2 +
+                  " Kg_Co2eq/personne/an </p>  "
+              )
+              .style("left", d3.event.pageX + "px")
+              .style("top", d3.event.pageY - 28 + "px");
+          })
+          .on("mouseout", function (d) {
+            div.style("opacity", 0);
+          });
+
+        console.log(" new circles showed");
+      }
+
+      function showTop() {
+        if (d3.select("#myCheckbox").property("checked")) {
+          // take data of each product
+          var data_perproduct = [];
+          for (let prod = 0; prod < 11; prod++) {
+            data_perproduct[prod] = data.filter(function (d) {
+              return d.Product == products[prod];
+            });
+          }
+
+          var topData_foreach_product = [];
+          for (let dt = 0; dt < 11; dt++) {
+            topData_foreach_product[dt] = data_perproduct[dt]
+              .sort(function (a, b) {
+                return d3.descending(+a.Co2, +b.Co2);
+              })
+              .slice(0, 10); //top 10 here
+          }
+        } else {
+          location.reload();
+        }
+
+        var topTenData = [];
+        for (let c = 0; c < 11; c++) {
+          topTenData = topTenData.concat(topData_foreach_product[c]);
+        }
+
+        d3.selectAll(".circ").remove();
+        var chart = svg
+          .append("g")
+          .selectAll(".circ")
+          .data(topTenData)
+          .enter()
+          .append("circle")
+          .attr("class", "circ")
+          .attr("stroke", "black")
+          .attr("fill", (d) => color(d.idh_catego))
+          .attr("r", (d) => size(d.Co2))
+          .attr("cx", (d) => xScale(d.Product))
+          .attr("cy", (d) => y(d.Co2))
+          // déclencher quand on survole le cercle
+          .on("mouseover", function (d) {
+            div.style("opacity", 0.85);
+            div
+              .html(
+                "<h2> " +
+                  d.Pays +
+                  "</h2><p> Disponibilité : " +
+                  d.Disponibilite +
+                  " kg/personne/an </p> <p> Emission Co2 : " +
+                  d.Co2 +
+                  " Kg_Co2eq/personne/an </p>  "
+              )
+              .style("left", d3.event.pageX + 10 + "px")
+              .style("top", d3.event.pageY - 28 + "px");
+
+            d3.select(this).attr("r", (d) => size(d.Co2 * 3));
+          })
+          .on("mouseout", function (d) {
+            chart.attr("r", (d) => size(d.Co2));
+            div.style("opacity", 0);
+          });
+
+        let simulation = d3
+          .forceSimulation(topTenData)
+          .force(
+            "x",
+            d3
+              .forceX((d) => {
+                return xScale(d.Product);
+              })
+              .strength(0.5)
+          )
+          .force(
+            "y",
+            d3
+              .forceY(function (d) {
+                return y(d.Co2);
+              })
+              .strength(0.5)
+          )
+          .force(
+            "collide",
+            d3.forceCollide((d) => {
+              return size(d.Co2 * 1.1);
+            })
+          )
+          .alphaDecay(0)
+          .alpha(0.3)
+          .on("tick", tick);
+      }
+      ////////////////////////////////////////////////////
+    });
+  });
+
+  // The table generation function
+  function table(data, columns, div) {
+    var table = d3.select(div).append("table");
+
+    (thead = table.append("thead")), (tbody = table.append("tbody"));
+
+    // append the header row
+    thead
+      .append("tr")
+      .selectAll("th")
+      .data(columns)
+      .enter()
+      .append("th")
+      .text(function (column) {
+        return column;
+      });
+
+    // create a row for each object in the data
+    var rows = tbody.selectAll("tr").data(data).enter().append("tr");
+
+    // create a cell in each row for each column
+    var cells = rows
+      .selectAll("td")
+      .data(function (row) {
+        return columns.map(function (column) {
+          return { column: column, value: row[column] };
+        });
+      })
+      .enter()
+      .append("td")
+      .attr("style", "font-family: Courier")
+      .html(function (d) {
+        return d.value;
+      });
+
+    return table;
+  }
+</script>
