@@ -1,5 +1,5 @@
-# Data Vizualisation 2020, groupe 19 : Notre alimentation et son impact écologique #
-### Nos Habitudes de Consommation Alimentaire et leur Incidence sur l'Ecosystème Terrestre ###
+# Data Vizualisation 2020, groupe 19#
+### Notre alimentation et son impact écologique ###
 *Projet Groupe 19 Data Vizualization*  
 
 De nos jours, nous entendons souvent parler d'écologie quand il s'agit de consommation d'eau et d'électricité, d'émissions de gaz à effet de serre par les véhicules ou les usines... mais un facteur encore bien trop négligé est la production et la consommation de nourriture : cela en est même une des principales sources.
@@ -9,6 +9,9 @@ Projet réalisé dans le cadre de l'UE Data Visualisation des Masters Data Scien
       
 Pour plus d'informations, voir la page Wiki du projet.
 
+# English Version : #
+# Data Vizualisation 2020, group 19 #
+### The ecological impact of our food ###
 
 Nowadays, we often hear about ecology when it comes to water or electricity consumption, or to greenhouse gas emissions by vehicles or factories... but food production and consumption is still a far too neglected factor : it is even one of its main sources.
 We know that simply presenting facts and figures is not always a very efficient method to make the importance of various concepts understood, so we invite you to test your knowledge of this subject during a quizz which will show you what is the real cost of what you eat, and how to have more eco-friendly meals.
