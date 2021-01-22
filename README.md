@@ -1,4 +1,4 @@
-# Data Vizualisation 2020, groupe 19#
+# Data Vizualisation 2020, groupe 19 #
 ### Notre alimentation et son impact écologique ###
 *Projet Groupe 19 Data Vizualization*  
 
