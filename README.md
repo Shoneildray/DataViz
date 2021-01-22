@@ -7,7 +7,10 @@ Nous savons que simplement présenter des faits et des chiffres n'est pas toujou
 
 Projet réalisé dans le cadre de l'UE Data Visualisation des Masters Data Science & IA - Université Claude Bernard Lyon 1  
       
-Pour plus d'informations, voir la page Wiki du projet.
+Pour plus d'informations, voir la [page Wiki du projet](https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki).
+
+
+![](https://github.com/Shoneildray/DataViz/blob/main/Images%20wiki/19-teaser.png)
 
 # English Version : #
 # Data Vizualisation 2020, group 19 #
@@ -18,4 +21,4 @@ We know that simply presenting facts and figures is not always a very efficient 
 
 This project was made during the Data Vizualisation course of Data Science and AI masters at Université Claude Bernard Lyon 1
 
-For more informations, see the Wiki page of this project.
+For more informations, see the [Wiki page of this project](https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki).
