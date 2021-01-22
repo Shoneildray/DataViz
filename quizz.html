@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="../css/app.css" />
+  <link rel="stylesheet" href="../css/quizz.css" />
+  <link rel="stylesheet" href="../css/main.css" />
+  <link rel="stylesheet" href="../css/visu1.css" />
+  <link rel="stylesheet" href="../css/visu2.css" />
+  <link rel="stylesheet" href="../css/visu3.css" />
+  <link
+    href="https://fonts.googleapis.com/css?family=Work+Sans:400,600,700&display=swap"
+    rel="stylesheet"
+  />
+  <style> 
+  .quizz .app {
+  /* max-width: 400px;
+  width: 85vw;
+  margin: 1rem auto 0; */
+  margin: auto;
+}
+
+.quizz .app__question {
+  font-family: "Lora", serif;
+  padding: 1rem 2rem;
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1px 5px 1px rgba(191, 191, 191, 0.8);
+}
+.quizz .app__question .question--counter {
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  padding: 0.5rem 0;
+  border-bottom: 0.2rem solid #252a37;
+  margin: 0;
+}
+.quizz .app__question .question--query {
+  text-align: left;
+  margin: 1rem 0 1.5rem;
+  font-weight: 300;
+  font-size: 1.1rem;
+}
+.quizz .app__question .question--answers {
+  line-height: 3;
+  list-style: none;
+  font-size: 1rem;
+  counter-reset: special-counter;
+  margin: 0;
+}
+.quizz .app__question .question--answers li {
+  margin-left: 2rem;
+  padding-left: 1.5rem;
+  counter-increment: count;
+  position: relative;
+  cursor: pointer;
+}
+
+.quizz .app__question .question--answers li:before {
+  content: counter(count, lower-alpha);
+  position: absolute;
+  right: 100%;
+  top: 50%;
+  background: #252a37;
+  color: #fff;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  text-align: center;
+  line-height: 2rem;
+  transform: translateY(-50%);
+  opacity: 0.7;
+  transition: opacity 0.2s ease-out;
+}
+
+.quizz .app__question .question--answers li.selected {
+  color: orange;
+}
+
+.quizz .app__question .question--answers li.selected:before {
+  background: orange;
+}
+
+.quizz .app__question .question--answers li.correct {
+  color: green;
+}
+
+.quizz .app__question .question--answers li.correct:before {
+  background: green;
+}
+
+.quizz .app__question .question--answers li.wrong {
+  color: red;
+}
+
+.quizz .app__question .question--answers li.wrong:before {
+  background: red;
+}
+
+.quizz .app__question .question--answers li:hover:before {
+  opacity: 1;
+}
+
+.quizz .app__answer {
+  font-family: "Lora", serif;
+  padding: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1px 5px 1px rgba(191, 191, 191, 0.8);
+  transition: transform 0.2s ease-out;
+}
+.quizz .app__answer.hidden {
+  transform: scale(0);
+  transition-delay: 0.05s;
+}
+.quizz .app__answer h2 {
+  text-align: center;
+  margin: 0.5rem 0;
+}
+.quizz .app__answer p {
+  line-height: 2;
+}
+
+.button.-green {
+  color: white;
+  background: #3dd28d;
+}
+
+.button {
+  overflow: hidden;
+  margin: 10px;
+  padding: 12px 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  transition: all 150ms linear;
+  text-align: center;
+  white-space: nowrap;
+  text-decoration: none !important;
+  text-transform: none;
+  text-transform: capitalize;
+  color: #fff;
+  border: 0 none;
+  border-radius: 36px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.3;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 160px;
+  box-shadow: 2px 5px 10px #e4e4e4;
+}
+
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <div class="menu">
+      <a href="index.html" class="nav">
+        <span>
+          <svg
+            viewBox="0 0 24 24"
+            width="24"
+            height="24"
+            stroke="currentColor"
+            stroke-width="2"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="css-i6dzq1"
+          >
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+            <polyline points="9 22 9 12 15 12 15 22"></polyline>
+          </svg>
+          Projet
+        </span>
+      </a>
+      <a href="quizz.html" class="nav selected">
+        <span>
+          <svg
+            viewBox="0 0 24 24"
+            width="24"
+            height="24"
+            stroke="currentColor"
+            stroke-width="2"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="css-i6dzq1"
+          >
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+            <line x1="12" y1="17" x2="12" y2="17"></line>
+          </svg>
+          Quizz
+        </span>
+      </a>
+      <a href="contact.html" class="nav">
+        <span>
+          <svg
+            viewBox="0 0 24 24"
+            width="24"
+            height="24"
+            stroke="currentColor"
+            stroke-width="2"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="css-i6dzq1"
+          >
+            <path
+              d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"
+            ></path>
+          </svg>
+          Contact
+        </span>
+      </a>
+    </div>
+
+    <div class="content">
+      <div class="page home-page quizz">
+        <div class="app">
+          <div id="app__question" class="app__question"></div>
+
+          <div id="submit" class="button -green center">Valider</div>
+          <div id="suivant" class="button -green center" hidden="true">
+            Suivant
+          </div>
+          <div id="recommencer" class="button -green center" hidden="true">
+            Recommencer
+          </div>
+
+          <!-- following the question, and once an answer is given, show a container detailing the correct answer -->
+          <div id="resultats" , hidden="true">
+            <div class="app__answer">
+              <div id="visu1" , hidden="true">
+                <h2 style="text-align: center;">
+                  <b style="font-family: Radical;"
+                    >&Eacutemissions de gaz &agrave effet de serre par produit
+                    pour chaque pays (Kg Co2&eacuteq/personne/an)
+                  </b>
+                </h2>
+                <br />
+                <iframe
+                  src="visu-html/visu1.html"
+                  height="800"
+                  width="1500"
+                  title="Iframe Example"
+                  style="border: none;"
+                ></iframe>
+                <p>
+                  <FONT size="2">
+                  <B>Sources des donn&eacutees</B> :
+                  <a href="https://github.com/Shoneildray/DataViz/wiki/Donn%C3%A9es" target="_blank">Cliquez ici</a>
+                  &emsp;
+                  <B>Code source</B> :
+                  <a href="https://www.chartfleau.com/tutorials/d3swarm/" target="_blank">Cliquez ici</a>
+                  </FONT>
+                  </p>
+              </div>
+              <div id="visu2" , hidden="true">
+                <h2 style="text-align: center;">
+                  <b style="font-family: Radical;"
+                    >Pertes & Gaspillage Alimentaire (kg/t&ecircte/an) par ordre
+                    d&eacutecroissant de revenu (PIB/t&ecircte)</b
+                  >
+                </h2>
+                <br />
+                <iframe
+                  src="visu-html/visu2.html"
+                  height="500"
+                  width="800"
+                  title="Iframe Example"
+                  style="border: none;"
+                ></iframe>
+                <p>
+                  <FONT size="2">
+                  <B>Sources des donn&eacutees</B> :
+                  <a href="https://github.com/Shoneildray/DataViz/wiki/Donn%C3%A9es" target="_blank">Cliquez ici</a>
+                  </FONT>
+                </p>
+              </div>
+              <div id="visu2_2" , hidden="true">
+                <h2 style="text-align: center;">
+                  <b style="font-family: Radical;">Pertes et gaspillages aux diff&eacuterentes &eacutetapes de la cha&icircne d'approvisionnement alimentaire</b>
+                </h2>
+                <br />
+                <iframe
+                  src="visu-html/visu2_2.html"
+                  height="680"
+                  width="1200"
+                  title="Iframe Example"
+                  style="border: none;"
+                ></iframe>
+                <p>
+                    <FONT size="2">
+                    <B>Sources des donn&eacutees</B> :
+                    <a href="https://www.diva-portal.org/smash/get/diva2:944159/FULLTEXT01.pdf" target="_blank">Cliquez ici</a>
+                    </FONT>
+                </p>
+              </div>
+              <div id="visu3" , hidden="true">
+                <h2 style="text-align: center;">
+                  <b style="font-family: Radical;"
+                    >L'augmentation du rendement des terres cultiv&eacutees
+                    permet de
+                    <br />
+                    limiter l'augmentation de la proportion de terres
+                    cultiv&eacutees...</b
+                  >
+                </h2> 
+                <br />
+                <iframe
+                  src="visu-html/visu3.html"
+                  height="520"
+                  width="720"
+                  title="Iframe Example"
+                  style="border: none;"
+                ></iframe>
+                <p>
+                  <FONT size="2">
+                      <B>Sources des donn&eacutees</B> :
+                  &emsp;
+                  <a href="http://www.fao.org/faostat/en/#data/QC"
+                  target="_blank"> Rendement agricole </a>
+                  &emsp;
+                  <a href="http://www.fao.org/faostat/en/#data/RL"
+                  target="_blank"> Utilisation des terres </a>
+                  &emsp;
+                  <a href="http://www.fao.org/faostat/en/#data/RP"
+                  target="_blank"> Utilisation de pesticides </a>
+                  </FONT>
+                </p>
+              </div>
+
+              <div id="app__explication" class="app__explication"></div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <div id="resultats"></div>
+
+  <!-- <div id="visu1" , hidden="true"></div>
+  <div id="visu2" , hidden="true"></div>
+  <div id="visu3" , hidden="true"></div> -->
+
+  <!-- scripts -->
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="js/main.js"></script>
+  <!-- //// redwane //// -->
+  <!-- <script src="js/visu1.js"></script> -->
+  <!-- <script src="js/visu2.js"></script> -->
+  <!-- <script src="js/visu3.js"></script> -->
+
+  
+</body>

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8" />
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+    .hidden {
+      display: none;
+    }
+    div.tooltip {
+      color: #222;
+      background-color: #fff;
+      padding: 0.5em;
+      text-shadow: #f5f5f5 0 1px 0;
+      border-radius: 2px;
+      opacity: 0.9;
+      position: absolute;
+    }
+  </style>
+</head>
+
+<div id="dataviz21"></div>
+
+<body>
+
+	<script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 30, right: 150, bottom: 100, left: 250},
+    width = 900 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+    
+// append the svg object to the body of the page
+var svg = d3.select("#dataviz21")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+var tooltip = d3
+      .select("body")
+      .append("div")
+      .attr("class", "hidden tooltip");
+
+ // Parse the Data
+ d3.csv("../data/Food_Lost_Waste_2007.csv").then(function (data) {
+
+  var subgroups = data.columns.slice(1,3)
+  //console.log(subgroups)
+  console.log(data.columns)
+
+  var rev_median = new Map();
+  //var tot_food_loss_waste = []
+  for (var i = 0; i < data.length; i++) {
+  rev_median.set(data[i].Regions, parseInt(data[i].Revenu_median))
+  //var dataValue = parseInt(data[i].Pertes) + parseInt(data[i].Gaspillage)
+  //tot_food_loss_waste.push(dataValue)
+  ;}
+  //var rev_median = {"Amerique Septentrionale, Oceanie" : 41149, "Europe" : 27614, "Asie Industrialisee" : 23998, "Amerique Latine" : 10265, "Afrique du Nord, Asie Occidentale & Centrale" : 9698, "Asie Meridionale, Asie du Sud-Est" : 3994, "Afrique Subsaharienne" : 1796}
+
+  //var min = d3.min(tot_food_loss_waste);
+  //var max = d3.max(tot_food_loss_waste);
+
+  // Add X axis
+  var x = d3.scaleLinear()
+    .domain([0, 300])
+    .range([ 0, width]);
+  svg.append("g")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x))
+    .selectAll("text")
+      .attr("transform", "translate(-10,0)rotate(-45)")
+      .style("fill", "#5a5a5a")
+      .style("text-anchor", "end");
+
+  // Y axis
+  var y = d3.scaleBand()
+    .range([ 0, height ])
+    .domain(data.map(function(d) { return d.Regions; }))
+    .padding(.1);
+  svg.append("g")
+    .call(d3.axisLeft(y))
+    .selectAll("text")
+    .style("fill", "#5a5a5a")
+    .style("font-size", "12px")
+    .style("font-family", "Raleway")
+  
+    // color palette = one color per subgroup
+    var color = d3.scaleOrdinal()
+    .domain(subgroups)
+    .range(['#8cb1cf','#ff5252'])
+
+  //stack the data? --> stack per subgroup
+  var stackedData = d3.stack()
+   .keys(subgroups)
+   (data)
+
+  //console.log(stackedData)
+
+    // Show the bars
+    svg.append("g")
+    .selectAll("g")
+    // Enter in the stack data = loop key per key = group per group
+    .data(stackedData)
+    .enter().append("g")
+      .attr("fill", function(d) { return color(d.key); })
+      .attr("class", function(d){ return "myRect " + d.key })
+      .selectAll("rect")
+      // enter a second time = loop subgroup per subgroup to add all rectangles
+      .data(function(d) { return d; })
+      .enter().append("rect")
+        .attr("x", function(d) { return x(d[0]); })
+        .attr("y", function(d) { return y(d.data.Regions); })
+        .attr("width", function(d) { return x(d[1]) - x(d[0]); })
+        .attr("height",y.bandwidth())
+        .on("mouseover", handleMouseOver)
+        .on("mouseout", handleMouseOut); 
+
+        function handleMouseOver(event, d) {
+          var region_selectionnee = d.data.Regions
+          //console.log(region_selectionnee)
+          var subgroupName = d3.select(this.parentNode).datum().key;
+          // Reduce opacity of all rect to 0.2
+          d3.selectAll(".myRect").style("opacity", 0.2)
+          // Highlight all rects of this subgroup with opacity 0.8. It is possible to select them since they have a specific class = their name.
+          d3.selectAll("." + subgroupName)
+            .style("opacity", 0.9)
+          var mouse = d3.pointer(event);
+          tooltip.classed("hidden", false)
+            .attr(
+              "style",
+              "left:" + (mouse[0] + margin.left + 10) + "px; top:" + (mouse[1]) + "px"
+            )
+            .html("Valeur : " + (d[1] - d[0]) + " kg/personne/an <br> Revenu médian : " + rev_median.get(region_selectionnee) + " $ (PIB/tête/an)" );
+        }
+
+        function handleMouseOut() {
+          d3.selectAll(".myRect").style("opacity",0.8)
+          tooltip.classed("hidden", true);
+        }
+
+ var keys = ["De la Production à la Vente au Détail", "Consommateur"]
+
+// Add one dot in the legend for each name.
+svg.append("g").selectAll("dots")
+  .data(keys)
+  .enter()
+  .append("circle")
+    .attr("cx", 0)
+    .attr("cy", function(d,i){ return height + 40 + i*25}) // 20 is where the first dot appears. 25 is the distance between dots
+    .attr("r", 7)
+    .style("fill", function(d, i){ return color(i)})
+
+// Add one dot in the legend for each name.
+svg.append("g").selectAll("labels")
+  .data(keys)
+  .enter()
+  .append("text")
+    .attr("x", 20)
+    .attr("y", function(d,i){ return height + 40 + i*25}) // 20 is where the first dot appears. 25 is the distance between dots
+    .style("fill", "#5a5a5a")
+    .text(function(d){ return d})
+    .attr("text-anchor", "left")
+    .style("font-family", "Raleway")
+    .style("alignment-baseline", "middle")
+  
+svg.append("text")
+.attr("x", width - 50)
+.attr("y", height + 40 + 1.25*25)
+.style("fill", "#5a5a5a")
+.style("font-family", "Raleway")
+//.text("Source")
+//.link("https://www.diva-portal.org/smash/get/diva2:944159/FULLTEXT01.pdf");
+
+    svg.append("text")
+    .attr("x", (width / 2))             
+    .attr("y", 0)
+    .attr("text-anchor", "middle")
+    .style("fill", "#5a5a5a")
+    .style("font-family", "Raleway")
+    .style("font-weight", "300")
+    .style("font-size", "20px")
+
+
+}) 
+
+</script>
+</body>
+
+</html>

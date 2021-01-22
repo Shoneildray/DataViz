@@ -1,0 +1,1373 @@
+Pays,Code zone,Type_product,Code_product,Product,Disponibilite,Co2,idh,idh_catego
+Afrique du Sud,202,1,1,Céréales sans riz,0.74,0.144633,0.705,0
+Albanie,3,1,1,Céréales sans riz,0.04,0.007818,0.791,0
+Algérie,4,1,1,Céréales sans riz,0.05,0.0097725,0.759,0
+Allemagne,79,1,1,Céréales sans riz,0.12,0.023454,0.939,1
+Angola,7,1,1,Céréales sans riz,0,0,0.574,0
+Arabie saoudite,194,1,1,Céréales sans riz,1.56,0.304902,0.857,1
+Argentine,9,1,1,Céréales sans riz,0.73,0.1426785,0.83,1
+Arménie,1,1,1,Céréales sans riz,2.72,0.531624,0.76,0
+Australie,10,1,1,Céréales sans riz,1.09,0.2130405,0.938,1
+Autriche,11,1,1,Céréales sans riz,1.87,0.3654915,0.914,1
+Bahamas,12,1,1,Céréales sans riz,1.43,0.2794935,0.805,1
+Bangladesh,16,1,1,Céréales sans riz,0,0,0.614,0
+Barbade,14,1,1,Céréales sans riz,1.59,0.3107655,0.813,1
+Bélarus,57,1,1,Céréales sans riz,3.16,0.617622,0.817,1
+Belgique,255,1,1,Céréales sans riz,0.05,0.0097725,0.919,1
+Belize,23,1,1,Céréales sans riz,1.13,0.2208585,0.72,0
+Bolivie (État plurinational de),19,1,1,Céréales sans riz,2.76,0.539442,0.703,0
+Bosnie-Herzégovine,80,1,1,Céréales sans riz,0.71,0.1387695,0.769,0
+Botswana,20,1,1,Céréales sans riz,3,0.58635,0.728,0
+Brésil,21,1,1,Céréales sans riz,0.45,0.0879525,0.761,0
+Bulgarie,27,1,1,Céréales sans riz,0.18,0.035181,0.816,1
+Cambodge,115,1,1,Céréales sans riz,0,0,0.581,0
+Cameroun,32,1,1,Céréales sans riz,0,0,0.563,0
+Canada,33,1,1,Céréales sans riz,0.5,0.097725,0.929,1
+Chili,40,1,1,Céréales sans riz,0.88,0.171996,0.847,1
+Chine,351,1,1,Céréales sans riz,0.57,0.1114065,0.758,0
+Chine - RAS de Hong-Kong,96,1,1,Céréales sans riz,2.34,0.457353,0.939,1
+"Chine, Taiwan Province de",214,1,1,Céréales sans riz,0.6,0.11727,0.907,1
+Chypre,50,1,1,Céréales sans riz,0.45,0.0879525,0.873,1
+Colombie,44,1,1,Céréales sans riz,0,0,0.761,0
+Congo,46,1,1,Céréales sans riz,0,0,0.608,0
+Costa Rica,48,1,1,Céréales sans riz,0.01,0.0019545,0.794,0
+Croatie,98,1,1,Céréales sans riz,0.7,0.136815,0.837,1
+Cuba,49,1,1,Céréales sans riz,0.03,0.0058635,0.778,0
+Danemark,54,1,1,Céréales sans riz,0.04,0.007818,0.93,1
+Égypte,59,1,1,Céréales sans riz,0,0,0.7,0
+El Salvador,60,1,1,Céréales sans riz,0.1,0.019545,0.667,0
+Émirats arabes unis,225,1,1,Céréales sans riz,0.04,0.007818,0.866,1
+Équateur,58,1,1,Céréales sans riz,0.05,0.0097725,0.758,0
+Espagne,203,1,1,Céréales sans riz,0.11,0.0214995,0.893,1
+Estonie,63,1,1,Céréales sans riz,1.4,0.27363,0.882,1
+Eswatini,209,1,1,Céréales sans riz,0.51,0.0996795,0.698,0
+États-Unis d'Amérique,231,1,1,Céréales sans riz,0.75,0.1465875,0.92,1
+Éthiopie,238,1,1,Céréales sans riz,35.87,7.0107915,0.47,0
+Fidji,66,1,1,Céréales sans riz,0.4,0.07818,0.724,0
+Finlande,67,1,1,Céréales sans riz,1.09,0.2130405,0.925,1
+France,68,1,1,Céréales sans riz,0.17,0.0332265,0.891,1
+Gambie,75,1,1,Céréales sans riz,0.63,0.1231335,0.466,0
+Géorgie,73,1,1,Céréales sans riz,3.99,0.7798455,0.786,0
+Ghana,81,1,1,Céréales sans riz,0.18,0.035181,0.596,0
+Grèce,84,1,1,Céréales sans riz,1.08,0.211086,0.872,1
+Grenade,86,1,1,Céréales sans riz,0.02,0.003909,0.763,0
+Guatemala,89,1,1,Céréales sans riz,0,0,0.651,0
+Guinée,90,1,1,Céréales sans riz,10.53,2.0580885,0.466,0
+Honduras,95,1,1,Céréales sans riz,0.56,0.109452,0.623,0
+Hongrie,97,1,1,Céréales sans riz,0.85,0.1661325,0.845,1
+Inde,100,1,1,Céréales sans riz,0,0,0.647,0
+Indonésie,101,1,1,Céréales sans riz,0.22,0.042999,0.707,0
+Iran (République islamique d'),102,1,1,Céréales sans riz,0,0,0.797,0
+Irlande,104,1,1,Céréales sans riz,1.31,0.2560395,0.942,1
+Islande,99,1,1,Céréales sans riz,0,0,0.938,1
+Israël,105,1,1,Céréales sans riz,0.17,0.0332265,0.906,1
+Italie,106,1,1,Céréales sans riz,2.06,0.402627,0.883,1
+Jamaïque,109,1,1,Céréales sans riz,0,0,0.726,0
+Japon,110,1,1,Céréales sans riz,0.9,0.175905,0.915,1
+Jordanie,112,1,1,Céréales sans riz,0.03,0.0058635,0.723,0
+Kazakhstan,108,1,1,Céréales sans riz,1.56,0.304902,0.817,1
+Kenya,114,1,1,Céréales sans riz,0,0,0.579,0
+Koweït,118,1,1,Céréales sans riz,0.29,0.0566805,0.808,1
+Lettonie,119,1,1,Céréales sans riz,4.57,0.8932065,0.854,1
+Libéria,123,1,1,Céréales sans riz,0.01,0.0019545,0.465,0
+Lituanie,126,1,1,Céréales sans riz,0.8,0.15636,0.869,1
+Luxembourg,256,1,1,Céréales sans riz,1.46,0.285357,0.909,1
+Macédoine du Nord,154,1,1,Céréales sans riz,0.05,0.0097725,0.759,0
+Madagascar,129,1,1,Céréales sans riz,0,0,0.521,0
+Malaisie,131,1,1,Céréales sans riz,0.9,0.175905,0.804,1
+Malawi,130,1,1,Céréales sans riz,0.1,0.019545,0.485,0
+Malte,134,1,1,Céréales sans riz,0.61,0.1192245,0.885,1
+Maroc,143,1,1,Céréales sans riz,0.01,0.0019545,0.676,0
+Maurice,137,1,1,Céréales sans riz,0.27,0.0527715,0.796,0
+Mexique,138,1,1,Céréales sans riz,0,0,0.767,0
+Mozambique,144,1,1,Céréales sans riz,0,0,0.446,0
+Myanmar,28,1,1,Céréales sans riz,0.21,0.0410445,0.797,0
+Namibie,147,1,1,Céréales sans riz,0.53,0.1035885,0.645,0
+Népal,149,1,1,Céréales sans riz,0.37,0.0723165,0.579,0
+Nicaragua,157,1,1,Céréales sans riz,0.63,0.1231335,0.651,0
+Niger,158,1,1,Céréales sans riz,0.3,0.058635,0.394,0
+Nigéria,159,1,1,Céréales sans riz,0.35,0.0684075,0.534,0
+Norvège,162,1,1,Céréales sans riz,0.02,0.003909,0.954,1
+Nouvelle-Zélande,156,1,1,Céréales sans riz,3.88,0.758346,0.921,1
+Oman,221,1,1,Céréales sans riz,0.12,0.023454,0.834,1
+Ouganda,226,1,1,Céréales sans riz,0.74,0.144633,0.528,0
+Ouzbékistan,235,1,1,Céréales sans riz,0.04,0.007818,0.71,0
+Pakistan,165,1,1,Céréales sans riz,0.17,0.0332265,0.56,0
+Panama,166,1,1,Céréales sans riz,0.28,0.054726,0.795,0
+Paraguay,169,1,1,Céréales sans riz,0.21,0.0410445,0.724,0
+Pays-Bas,150,1,1,Céréales sans riz,10.81,2.1128145,0.933,1
+Pérou,170,1,1,Céréales sans riz,1.22,0.238449,0.759,0
+Philippines,171,1,1,Céréales sans riz,0.09,0.0175905,0.712,0
+Pologne,173,1,1,Céréales sans riz,2.77,0.5413965,0.872,1
+Portugal,174,1,1,Céréales sans riz,0.37,0.0723165,0.85,1
+République-Unie de Tanzanie,215,1,1,Céréales sans riz,0.49,0.0957705,0.528,0
+Roumanie,183,1,1,Céréales sans riz,0.88,0.171996,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,1,1,Céréales sans riz,0.14,0.027363,0.92,1
+Rwanda,184,1,1,Céréales sans riz,0.02,0.003909,0.536,0
+Sénégal,195,1,1,Céréales sans riz,0.14,0.027363,0.505,0
+Serbie,272,1,1,Céréales sans riz,2.71,0.5296695,0.799,0
+Sierra Leone,197,1,1,Céréales sans riz,1.34,0.261903,0.438,0
+Slovaquie,199,1,1,Céréales sans riz,1.08,0.211086,0.857,1
+Slovénie,198,1,1,Céréales sans riz,1.74,0.340083,0.902,1
+Sri Lanka,38,1,1,Céréales sans riz,0,0,0.78,0
+Suède,210,1,1,Céréales sans riz,0.25,0.0488625,0.937,1
+Suisse,211,1,1,Céréales sans riz,0.94,0.183723,0.946,1
+Tchéquie,167,1,1,Céréales sans riz,1.18,0.230631,0.891,1
+Thaïlande,216,1,1,Céréales sans riz,0.47,0.0918615,0.765,0
+Togo,217,1,1,Céréales sans riz,0.39,0.0762255,0.513,0
+Trinité-et-Tobago,220,1,1,Céréales sans riz,3.71,0.7251195,0.799,0
+Tunisie,222,1,1,Céréales sans riz,0.79,0.1544055,0.739,0
+Turquie,223,1,1,Céréales sans riz,0.01,0.0019545,0.806,1
+Ukraine,230,1,1,Céréales sans riz,4.16,0.813072,0.75,0
+Uruguay,234,1,1,Céréales sans riz,1.1,0.214995,0.808,1
+Venezuela (République bolivarienne du),236,1,1,Céréales sans riz,0,0,0.726,0
+Viet Nam,237,1,1,Céréales sans riz,0,0,0.693,0
+Zambie,251,1,1,Céréales sans riz,0.35,0.0684075,0.591,0
+Zimbabwe,181,1,1,Céréales sans riz,0.2,0.03909,0.563,0
+Afrique du Sud,202,1,2,Riz ,22.93,19.300181,0.705,0
+Albanie,3,1,2,Riz ,12.38,10.420246,0.791,0
+Algérie,4,1,2,Riz ,4.14,3.484638,0.759,0
+Allemagne,79,1,2,Riz ,4.71,3.964407,0.939,1
+Angola,7,1,2,Riz ,12.07,10.159319,0.574,0
+Arabie saoudite,194,1,2,Riz ,52.56,44.239752,0.857,1
+Argentine,9,1,2,Riz ,12.51,10.529667,0.83,1
+Arménie,1,1,2,Riz ,3.29,2.769193,0.76,0
+Australie,10,1,2,Riz ,15.5,13.04635,0.938,1
+Autriche,11,1,2,Riz ,5.4,4.54518,0.914,1
+Bahamas,12,1,2,Riz ,21.51,18.104967,0.805,1
+Bangladesh,16,1,2,Riz ,260.43,219.203931,0.614,0
+Barbade,14,1,2,Riz ,17.07,14.367819,0.813,1
+Bélarus,57,1,2,Riz ,2.9,2.44093,0.817,1
+Belgique,255,1,2,Riz ,10.02,8.433834,0.919,1
+Belize,23,1,2,Riz ,40.38,33.987846,0.72,0
+Bolivie (État plurinational de),19,1,2,Riz ,40.84,34.375028,0.703,0
+Bosnie-Herzégovine,80,1,2,Riz ,3.02,2.541934,0.769,0
+Botswana,20,1,2,Riz ,13.24,11.144108,0.728,0
+Brésil,21,1,2,Riz ,47.1,39.64407,0.761,0
+Bulgarie,27,1,2,Riz ,2.45,2.062165,0.816,1
+Cambodge,115,1,2,Riz ,240.3,202.26051,0.581,0
+Cameroun,32,1,2,Riz ,39.94,33.617498,0.563,0
+Canada,33,1,2,Riz ,12.78,10.756926,0.929,1
+Chili,40,1,2,Riz ,13.26,11.160942,0.847,1
+Chine,351,1,2,Riz ,115.98,97.620366,0.758,0
+Chine - RAS de Hong-Kong,96,1,2,Riz ,64.46,54.255982,0.939,1
+"Chine, Taiwan Province de",214,1,2,Riz ,68.54,57.690118,0.907,1
+Chypre,50,1,2,Riz ,5.15,4.334755,0.873,1
+Colombie,44,1,2,Riz ,55.37,46.604929,0.761,0
+Congo,46,1,2,Riz ,26.71,22.481807,0.608,0
+Costa Rica,48,1,2,Riz ,63.66,53.582622,0.794,0
+Croatie,98,1,2,Riz ,2.54,2.137918,0.837,1
+Cuba,49,1,2,Riz ,76.06,64.019702,0.778,0
+Danemark,54,1,2,Riz ,4.58,3.854986,0.93,1
+Égypte,59,1,2,Riz ,53.02,44.626934,0.7,0
+El Salvador,60,1,2,Riz ,14.67,12.347739,0.667,0
+Émirats arabes unis,225,1,2,Riz ,55.03,46.318751,0.866,1
+Équateur,58,1,2,Riz ,60.96,51.310032,0.758,0
+Espagne,203,1,2,Riz ,11.72,9.864724,0.893,1
+Estonie,63,1,2,Riz ,2.5,2.10425,0.882,1
+Eswatini,209,1,2,Riz ,35.23,29.653091,0.698,0
+États-Unis d'Amérique,231,1,2,Riz ,10.66,8.972522,0.92,1
+Éthiopie,238,1,2,Riz ,3.46,2.912282,0.47,0
+Fidji,66,1,2,Riz ,63.24,53.229108,0.724,0
+Finlande,67,1,2,Riz ,4.59,3.863403,0.925,1
+France,68,1,2,Riz ,7.57,6.371669,0.891,1
+Gambie,75,1,2,Riz ,74.25,62.496225,0.466,0
+Géorgie,73,1,2,Riz ,2.34,1.969578,0.786,0
+Ghana,81,1,2,Riz ,40.92,34.442364,0.596,0
+Grèce,84,1,2,Riz ,4.09,3.442553,0.872,1
+Grenade,86,1,2,Riz ,11.48,9.662716,0.763,0
+Guatemala,89,1,2,Riz ,8.51,7.162867,0.651,0
+Guinée,90,1,2,Riz ,168.86,142.129462,0.466,0
+Honduras,95,1,2,Riz ,22.52,18.955084,0.623,0
+Hongrie,97,1,2,Riz ,6.53,5.496301,0.845,1
+Inde,100,1,2,Riz ,100.3,84.42251,0.647,0
+Indonésie,101,1,2,Riz ,196.07,165.032119,0.707,0
+Iran (République islamique d'),102,1,2,Riz ,42.56,35.822752,0.797,0
+Irlande,104,1,2,Riz ,4.08,3.434136,0.942,1
+Islande,99,1,2,Riz ,3.99,3.358383,0.938,1
+Israël,105,1,2,Riz ,16.88,14.207896,0.906,1
+Italie,106,1,2,Riz ,9.47,7.970899,0.883,1
+Jamaïque,109,1,2,Riz ,38.91,32.750547,0.726,0
+Japon,110,1,2,Riz ,81.63,68.707971,0.915,1
+Jordanie,112,1,2,Riz ,19.88,16.732996,0.723,0
+Kazakhstan,108,1,2,Riz ,10.14,8.534838,0.817,1
+Kenya,114,1,2,Riz ,19.42,16.345814,0.579,0
+Koweït,118,1,2,Riz ,52.06,43.818902,0.808,1
+Lettonie,119,1,2,Riz ,2.76,2.323092,0.854,1
+Libéria,123,1,2,Riz ,110.48,92.991016,0.465,0
+Lituanie,126,1,2,Riz ,3.12,2.626104,0.869,1
+Luxembourg,256,1,2,Riz ,4.62,3.888654,0.909,1
+Macédoine du Nord,154,1,2,Riz ,3.57,3.004869,0.759,0
+Madagascar,129,1,2,Riz ,152.27,128.165659,0.521,0
+Malaisie,131,1,2,Riz ,115.31,97.056427,0.804,1
+Malawi,130,1,2,Riz ,6.41,5.395297,0.485,0
+Malte,134,1,2,Riz ,4.78,4.023326,0.885,1
+Maroc,143,1,2,Riz ,1.93,1.624481,0.676,0
+Maurice,137,1,2,Riz ,56.56,47.606552,0.796,0
+Mexique,138,1,2,Riz ,8.7,7.32279,0.767,0
+Mozambique,144,1,2,Riz ,34.28,28.853476,0.446,0
+Myanmar,28,1,2,Riz ,188.89,158.988713,0.797,0
+Namibie,147,1,2,Riz ,8.08,6.800936,0.645,0
+Népal,149,1,2,Riz ,135.32,113.898844,0.579,0
+Nicaragua,157,1,2,Riz ,68.8,57.90896,0.651,0
+Niger,158,1,2,Riz ,22.86,19.241262,0.394,0
+Nigéria,159,1,2,Riz ,39.07,32.885219,0.534,0
+Norvège,162,1,2,Riz ,4.66,3.922322,0.954,1
+Nouvelle-Zélande,156,1,2,Riz ,10.15,8.543255,0.921,1
+Oman,221,1,2,Riz ,47.33,39.837661,0.834,1
+Ouganda,226,1,2,Riz ,10.32,8.686344,0.528,0
+Ouzbékistan,235,1,2,Riz ,6.79,5.715143,0.71,0
+Pakistan,165,1,2,Riz ,19.97,16.808749,0.56,0
+Panama,166,1,2,Riz ,122.29,102.931493,0.795,0
+Paraguay,169,1,2,Riz ,9.09,7.651053,0.724,0
+Pays-Bas,150,1,2,Riz ,4.32,3.636144,0.933,1
+Pérou,170,1,2,Riz ,77.72,65.416924,0.759,0
+Philippines,171,1,2,Riz ,181.68,152.920056,0.712,0
+Pologne,173,1,2,Riz ,1.61,1.355137,0.872,1
+Portugal,174,1,2,Riz ,19.36,16.295312,0.85,1
+République-Unie de Tanzanie,215,1,2,Riz ,35.14,29.577338,0.528,0
+Roumanie,183,1,2,Riz ,4.45,3.745565,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,1,2,Riz ,7.82,6.582094,0.92,1
+Rwanda,184,1,2,Riz ,10.22,8.602174,0.536,0
+Sénégal,195,1,2,Riz ,118.95,100.120215,0.505,0
+Serbie,272,1,2,Riz ,0.84,0.707028,0.799,0
+Sierra Leone,197,1,2,Riz ,158.32,133.257944,0.438,0
+Slovaquie,199,1,2,Riz ,2.45,2.062165,0.857,1
+Slovénie,198,1,2,Riz ,3.4,2.86178,0.902,1
+Sri Lanka,38,1,2,Riz ,165.85,139.595945,0.78,0
+Suède,210,1,2,Riz ,6.06,5.100702,0.937,1
+Suisse,211,1,2,Riz ,2.58,2.171586,0.946,1
+Tchéquie,167,1,2,Riz ,6.91,5.816147,0.891,1
+Thaïlande,216,1,2,Riz ,163.77,137.845209,0.765,0
+Togo,217,1,2,Riz ,24.23,20.394391,0.513,0
+Trinité-et-Tobago,220,1,2,Riz ,18.98,15.975466,0.799,0
+Tunisie,222,1,2,Riz ,1.18,0.993206,0.739,0
+Turquie,223,1,2,Riz ,15.98,13.450366,0.806,1
+Ukraine,230,1,2,Riz ,3.79,3.190043,0.75,0
+Uruguay,234,1,2,Riz ,16.71,14.064807,0.808,1
+Venezuela (République bolivarienne du),236,1,2,Riz ,39.88,33.566996,0.726,0
+Viet Nam,237,1,2,Riz ,207.95,175.031515,0.693,0
+Zambie,251,1,2,Riz ,2.37,1.994829,0.591,0
+Zimbabwe,181,1,2,Riz ,2.46,2.070582,0.563,0
+Afrique du Sud,202,1,3,Tomates,10.88,7.616,0.705,0
+Albanie,3,1,3,Tomates,74.22,51.954,0.791,0
+Algérie,4,1,3,Tomates,30.35,21.245,0.759,0
+Allemagne,79,1,3,Tomates,14.05,9.835,0.939,1
+Angola,7,1,3,Tomates,3.22,2.254,0.574,0
+Arabie saoudite,194,1,3,Tomates,15.26,10.682,0.857,1
+Argentine,9,1,3,Tomates,14.54,10.178,0.83,1
+Arménie,1,1,3,Tomates,66.92,46.844,0.76,0
+Australie,10,1,3,Tomates,18.39,12.873,0.938,1
+Autriche,11,1,3,Tomates,13.16,9.212,0.914,1
+Bahamas,12,1,3,Tomates,20.82,14.574,0.805,1
+Bangladesh,16,1,3,Tomates,2.22,1.554,0.614,0
+Barbade,14,1,3,Tomates,2.69,1.883,0.813,1
+Bélarus,57,1,3,Tomates,32.62,22.834,0.817,1
+Belgique,255,1,3,Tomates,18.31,12.817,0.919,1
+Belize,23,1,3,Tomates,4.92,3.444,0.72,0
+Bolivie (État plurinational de),19,1,3,Tomates,6.53,4.571,0.703,0
+Bosnie-Herzégovine,80,1,3,Tomates,18.85,13.195,0.769,0
+Botswana,20,1,3,Tomates,5.2,3.64,0.728,0
+Brésil,21,1,3,Tomates,19.31,13.517,0.761,0
+Bulgarie,27,1,3,Tomates,30.16,21.112,0.816,1
+Cambodge,115,1,3,Tomates,0.02,0.014,0.581,0
+Cameroun,32,1,3,Tomates,42.47,29.729,0.563,0
+Canada,33,1,3,Tomates,19.61,13.727,0.929,1
+Chili,40,1,3,Tomates,7.3,5.11,0.847,1
+Chine,351,1,3,Tomates,34.43,24.101,0.758,0
+Chine - RAS de Hong-Kong,96,1,3,Tomates,2.42,1.694,0.939,1
+"Chine, Taiwan Province de",214,1,3,Tomates,5.9,4.13,0.907,1
+Chypre,50,1,3,Tomates,19.95,13.965,0.873,1
+Colombie,44,1,3,Tomates,10.28,7.196,0.761,0
+Congo,46,1,3,Tomates,3.54,2.478,0.608,0
+Costa Rica,48,1,3,Tomates,12.67,8.869,0.794,0
+Croatie,98,1,3,Tomates,13.79,9.653,0.837,1
+Cuba,49,1,3,Tomates,46.95,32.865,0.778,0
+Danemark,54,1,3,Tomates,12.95,9.065,0.93,1
+Égypte,59,1,3,Tomates,63,44.1,0.7,0
+El Salvador,60,1,3,Tomates,17.09,11.963,0.667,0
+Émirats arabes unis,225,1,3,Tomates,7.99,5.593,0.866,1
+Équateur,58,1,3,Tomates,4.85,3.395,0.758,0
+Espagne,203,1,3,Tomates,57.72,40.404,0.893,1
+Estonie,63,1,3,Tomates,13.98,9.786,0.882,1
+Eswatini,209,1,3,Tomates,6.98,4.886,0.698,0
+États-Unis d'Amérique,231,1,3,Tomates,32.74,22.918,0.92,1
+Éthiopie,238,1,3,Tomates,0.14,0.098,0.47,0
+Fidji,66,1,3,Tomates,2.71,1.897,0.724,0
+Finlande,67,1,3,Tomates,13.66,9.562,0.925,1
+France,68,1,3,Tomates,22.22,15.554,0.891,1
+Gambie,75,1,3,Tomates,2.48,1.736,0.466,0
+Géorgie,73,1,3,Tomates,17.46,12.222,0.786,0
+Ghana,81,1,3,Tomates,13.94,9.758,0.596,0
+Grèce,84,1,3,Tomates,54.75,38.325,0.872,1
+Grenade,86,1,3,Tomates,57.25,40.075,0.763,0
+Guatemala,89,1,3,Tomates,15.47,10.829,0.651,0
+Guinée,90,1,3,Tomates,1.07,0.749,0.466,0
+Honduras,95,1,3,Tomates,2.62,1.834,0.623,0
+Hongrie,97,1,3,Tomates,13.23,9.261,0.845,1
+Inde,100,1,3,Tomates,14.27,9.989,0.647,0
+Indonésie,101,1,3,Tomates,3.38,2.366,0.707,0
+Iran (République islamique d'),102,1,3,Tomates,57.88,40.516,0.797,0
+Irlande,104,1,3,Tomates,10.92,7.644,0.942,1
+Islande,99,1,3,Tomates,12.25,8.575,0.938,1
+Israël,105,1,3,Tomates,49.78,34.846,0.906,1
+Italie,106,1,3,Tomates,37.04,25.928,0.883,1
+Jamaïque,109,1,3,Tomates,9.26,6.482,0.726,0
+Japon,110,1,3,Tomates,7.01,4.907,0.915,1
+Jordanie,112,1,3,Tomates,41.41,28.987,0.723,0
+Kazakhstan,108,1,3,Tomates,46.5,32.55,0.817,1
+Kenya,114,1,3,Tomates,10,7,0.579,0
+Koweït,118,1,3,Tomates,41.38,28.966,0.808,1
+Lettonie,119,1,3,Tomates,11.27,7.889,0.854,1
+Libéria,123,1,3,Tomates,0.83,0.581,0.465,0
+Lituanie,126,1,3,Tomates,16.15,11.305,0.869,1
+Luxembourg,256,1,3,Tomates,16.34,11.438,0.909,1
+Macédoine du Nord,154,1,3,Tomates,63.14,44.198,0.759,0
+Madagascar,129,1,3,Tomates,1.59,1.113,0.521,0
+Malaisie,131,1,3,Tomates,4.63,3.241,0.804,1
+Malawi,130,1,3,Tomates,22.93,16.051,0.485,0
+Malte,134,1,3,Tomates,38.7,27.09,0.885,1
+Maroc,143,1,3,Tomates,19.31,13.517,0.676,0
+Maurice,137,1,3,Tomates,12.41,8.687,0.796,0
+Mexique,138,1,3,Tomates,19.78,13.846,0.767,0
+Mozambique,144,1,3,Tomates,18.27,12.789,0.446,0
+Myanmar,28,1,3,Tomates,0.08,0.056,0.797,0
+Namibie,147,1,3,Tomates,1.87,1.309,0.645,0
+Népal,149,1,3,Tomates,0.52,0.364,0.579,0
+Nicaragua,157,1,3,Tomates,9.31,6.517,0.651,0
+Niger,158,1,3,Tomates,11.34,7.938,0.394,0
+Nigéria,159,1,3,Tomates,15.42,10.794,0.534,0
+Norvège,162,1,3,Tomates,9.72,6.804,0.954,1
+Nouvelle-Zélande,156,1,3,Tomates,17.58,12.306,0.921,1
+Oman,221,1,3,Tomates,45.15,31.605,0.834,1
+Ouganda,226,1,3,Tomates,0.52,0.364,0.528,0
+Ouzbékistan,235,1,3,Tomates,73.57,51.499,0.71,0
+Pakistan,165,1,3,Tomates,2.81,1.967,0.56,0
+Panama,166,1,3,Tomates,8.37,5.859,0.795,0
+Paraguay,169,1,3,Tomates,10.5,7.35,0.724,0
+Pays-Bas,150,1,3,Tomates,8.57,5.999,0.933,1
+Pérou,170,1,3,Tomates,4.55,3.185,0.759,0
+Philippines,171,1,3,Tomates,2.99,2.093,0.712,0
+Pologne,173,1,3,Tomates,24.6,17.22,0.872,1
+Portugal,174,1,3,Tomates,64.95,45.465,0.85,1
+République-Unie de Tanzanie,215,1,3,Tomates,6.07,4.249,0.528,0
+Roumanie,183,1,3,Tomates,43.86,30.702,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,1,3,Tomates,14.06,9.842,0.92,1
+Rwanda,184,1,3,Tomates,7.47,5.229,0.536,0
+Sénégal,195,1,3,Tomates,9.99,6.993,0.505,0
+Serbie,272,1,3,Tomates,19.75,13.825,0.799,0
+Sierra Leone,197,1,3,Tomates,3.43,2.401,0.438,0
+Slovaquie,199,1,3,Tomates,9.62,6.734,0.857,1
+Slovénie,198,1,3,Tomates,10.01,7.007,0.902,1
+Sri Lanka,38,1,3,Tomates,3.57,2.499,0.78,0
+Suède,210,1,3,Tomates,15.53,10.871,0.937,1
+Suisse,211,1,3,Tomates,14.56,10.192,0.946,1
+Tchéquie,167,1,3,Tomates,10.35,7.245,0.891,1
+Thaïlande,216,1,3,Tomates,2.26,1.582,0.765,0
+Togo,217,1,3,Tomates,3.78,2.646,0.513,0
+Trinité-et-Tobago,220,1,3,Tomates,5.05,3.535,0.799,0
+Tunisie,222,1,3,Tomates,74.21,51.947,0.739,0
+Turquie,223,1,3,Tomates,97.65,68.355,0.806,1
+Ukraine,230,1,3,Tomates,49.07,34.349,0.75,0
+Uruguay,234,1,3,Tomates,11.76,8.232,0.808,1
+Venezuela (République bolivarienne du),236,1,3,Tomates,6.86,4.802,0.726,0
+Viet Nam,237,1,3,Tomates,0.2,0.14,0.693,0
+Zambie,251,1,3,Tomates,1.46,1.022,0.591,0
+Zimbabwe,181,1,3,Tomates,1.86,1.302,0.563,0
+Afrique du Sud,202,1,4,Pommes,2.05,1.435,0.705,0
+Albanie,3,1,4,Pommes,32.44,22.708,0.791,0
+Algérie,4,1,4,Pommes,12.91,9.037,0.759,0
+Allemagne,79,1,4,Pommes,16.02,11.214,0.939,1
+Angola,7,1,4,Pommes,0.61,0.427,0.574,0
+Arabie saoudite,194,1,4,Pommes,2.9,2.03,0.857,1
+Argentine,9,1,4,Pommes,7.64,5.348,0.83,1
+Arménie,1,1,4,Pommes,17.4,12.18,0.76,0
+Australie,10,1,4,Pommes,13.27,9.289,0.938,1
+Autriche,11,1,4,Pommes,20.81,14.567,0.914,1
+Bahamas,12,1,4,Pommes,3.59,2.513,0.805,1
+Bangladesh,16,1,4,Pommes,1.13,0.791,0.614,0
+Barbade,14,1,4,Pommes,9.8,6.86,0.813,1
+Bélarus,57,1,4,Pommes,24.4,17.08,0.817,1
+Belgique,255,1,4,Pommes,11.86,8.302,0.919,1
+Belize,23,1,4,Pommes,0.78,0.546,0.72,0
+Bolivie (État plurinational de),19,1,4,Pommes,3.27,2.289,0.703,0
+Bosnie-Herzégovine,80,1,4,Pommes,12.3,8.61,0.769,0
+Botswana,20,1,4,Pommes,3.61,2.527,0.728,0
+Brésil,21,1,4,Pommes,5.11,3.577,0.761,0
+Bulgarie,27,1,4,Pommes,3.01,2.107,0.816,1
+Cambodge,115,1,4,Pommes,0.2,0.14,0.581,0
+Cameroun,32,1,4,Pommes,0.3,0.21,0.563,0
+Canada,33,1,4,Pommes,19.61,13.727,0.929,1
+Chili,40,1,4,Pommes,10.29,7.203,0.847,1
+Chine,351,1,4,Pommes,21.62,15.134,0.758,0
+Chine - RAS de Hong-Kong,96,1,4,Pommes,7.24,5.068,0.939,1
+"Chine, Taiwan Province de",214,1,4,Pommes,4.85,3.395,0.907,1
+Chypre,50,1,4,Pommes,9.72,6.804,0.873,1
+Colombie,44,1,4,Pommes,2.27,1.589,0.761,0
+Congo,46,1,4,Pommes,0.31,0.217,0.608,0
+Costa Rica,48,1,4,Pommes,3.78,2.646,0.794,0
+Croatie,98,1,4,Pommes,9.7,6.79,0.837,1
+Cuba,49,1,4,Pommes,0.3,0.21,0.778,0
+Danemark,54,1,4,Pommes,5.62,3.934,0.93,1
+Égypte,59,1,4,Pommes,8.76,6.132,0.7,0
+El Salvador,60,1,4,Pommes,1.97,1.379,0.667,0
+Émirats arabes unis,225,1,4,Pommes,10.66,7.462,0.866,1
+Équateur,58,1,4,Pommes,3.63,2.541,0.758,0
+Espagne,203,1,4,Pommes,8.68,6.076,0.893,1
+Estonie,63,1,4,Pommes,14.94,10.458,0.882,1
+Eswatini,209,1,4,Pommes,3.57,2.499,0.698,0
+États-Unis d'Amérique,231,1,4,Pommes,17.6,12.32,0.92,1
+Éthiopie,238,1,4,Pommes,0.02,0.014,0.47,0
+Fidji,66,1,4,Pommes,2.61,1.827,0.724,0
+Finlande,67,1,4,Pommes,8.87,6.209,0.925,1
+France,68,1,4,Pommes,9.08,6.356,0.891,1
+Gambie,75,1,4,Pommes,0.17,0.119,0.466,0
+Géorgie,73,1,4,Pommes,2.55,1.785,0.786,0
+Ghana,81,1,4,Pommes,0.39,0.273,0.596,0
+Grèce,84,1,4,Pommes,5.13,3.591,0.872,1
+Grenade,86,1,4,Pommes,5.06,3.542,0.763,0
+Guatemala,89,1,4,Pommes,1.2,0.84,0.651,0
+Guinée,90,1,4,Pommes,0.09,0.063,0.466,0
+Honduras,95,1,4,Pommes,1.9,1.33,0.623,0
+Hongrie,97,1,4,Pommes,25.61,17.927,0.845,1
+Inde,100,1,4,Pommes,1.94,1.358,0.647,0
+Indonésie,101,1,4,Pommes,0.63,0.441,0.707,0
+Iran (République islamique d'),102,1,4,Pommes,18.88,13.216,0.797,0
+Irlande,104,1,4,Pommes,5.63,3.941,0.942,1
+Islande,99,1,4,Pommes,14.61,10.227,0.938,1
+Israël,105,1,4,Pommes,5.03,3.521,0.906,1
+Italie,106,1,4,Pommes,11.02,7.714,0.883,1
+Jamaïque,109,1,4,Pommes,0.51,0.357,0.726,0
+Japon,110,1,4,Pommes,5.38,3.766,0.915,1
+Jordanie,112,1,4,Pommes,7.71,5.397,0.723,0
+Kazakhstan,108,1,4,Pommes,16.96,11.872,0.817,1
+Kenya,114,1,4,Pommes,0.24,0.168,0.579,0
+Koweït,118,1,4,Pommes,7.31,5.117,0.808,1
+Lettonie,119,1,4,Pommes,3.9,2.73,0.854,1
+Libéria,123,1,4,Pommes,0.16,0.112,0.465,0
+Lituanie,126,1,4,Pommes,0.87,0.609,0.869,1
+Luxembourg,256,1,4,Pommes,12.62,8.834,0.909,1
+Macédoine du Nord,154,1,4,Pommes,5.18,3.626,0.759,0
+Madagascar,129,1,4,Pommes,0.32,0.224,0.521,0
+Malaisie,131,1,4,Pommes,3.37,2.359,0.804,1
+Malawi,130,1,4,Pommes,0.23,0.161,0.485,0
+Malte,134,1,4,Pommes,10.92,7.644,0.885,1
+Maroc,143,1,4,Pommes,14.67,10.269,0.676,0
+Maurice,137,1,4,Pommes,5.37,3.759,0.796,0
+Mexique,138,1,4,Pommes,6.81,4.767,0.767,0
+Mozambique,144,1,4,Pommes,0.27,0.189,0.446,0
+Myanmar,28,1,4,Pommes,0.08,0.056,0.797,0
+Namibie,147,1,4,Pommes,5.93,4.151,0.645,0
+Népal,149,1,4,Pommes,3.38,2.366,0.579,0
+Nicaragua,157,1,4,Pommes,1.7,1.19,0.651,0
+Niger,158,1,4,Pommes,0.05,0.035,0.394,0
+Nigéria,159,1,4,Pommes,0.19,0.133,0.534,0
+Norvège,162,1,4,Pommes,13.09,9.163,0.954,1
+Nouvelle-Zélande,156,1,4,Pommes,10.49,7.343,0.921,1
+Oman,221,1,4,Pommes,5.02,3.514,0.834,1
+Ouganda,226,1,4,Pommes,0.06,0.042,0.528,0
+Ouzbékistan,235,1,4,Pommes,24.35,17.045,0.71,0
+Pakistan,165,1,4,Pommes,3.1,2.17,0.56,0
+Panama,166,1,4,Pommes,3.47,2.429,0.795,0
+Paraguay,169,1,4,Pommes,1.83,1.281,0.724,0
+Pays-Bas,150,1,4,Pommes,31.32,21.924,0.933,1
+Pérou,170,1,4,Pommes,5.4,3.78,0.759,0
+Philippines,171,1,4,Pommes,0.9,0.63,0.712,0
+Pologne,173,1,4,Pommes,11.64,8.148,0.872,1
+Portugal,174,1,4,Pommes,23.86,16.702,0.85,1
+République-Unie de Tanzanie,215,1,4,Pommes,0.12,0.084,0.528,0
+Roumanie,183,1,4,Pommes,24.39,17.073,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,1,4,Pommes,12.94,9.058,0.92,1
+Rwanda,184,1,4,Pommes,0.08,0.056,0.536,0
+Sénégal,195,1,4,Pommes,0.71,0.497,0.505,0
+Serbie,272,1,4,Pommes,8.39,5.873,0.799,0
+Sierra Leone,197,1,4,Pommes,0,0,0.438,0
+Slovaquie,199,1,4,Pommes,8.49,5.943,0.857,1
+Slovénie,198,1,4,Pommes,32.7,22.89,0.902,1
+Sri Lanka,38,1,4,Pommes,1.26,0.882,0.78,0
+Suède,210,1,4,Pommes,7.55,5.285,0.937,1
+Suisse,211,1,4,Pommes,15.54,10.878,0.946,1
+Tchéquie,167,1,4,Pommes,12.07,8.449,0.891,1
+Thaïlande,216,1,4,Pommes,0.81,0.567,0.765,0
+Togo,217,1,4,Pommes,0.26,0.182,0.513,0
+Trinité-et-Tobago,220,1,4,Pommes,2.63,1.841,0.799,0
+Tunisie,222,1,4,Pommes,7.84,5.488,0.739,0
+Turquie,223,1,4,Pommes,29.21,20.447,0.806,1
+Ukraine,230,1,4,Pommes,8.86,6.202,0.75,0
+Uruguay,234,1,4,Pommes,9.6,6.72,0.808,1
+Venezuela (République bolivarienne du),236,1,4,Pommes,0.05,0.035,0.726,0
+Viet Nam,237,1,4,Pommes,1.04,0.728,0.693,0
+Zambie,251,1,4,Pommes,0.44,0.308,0.591,0
+Zimbabwe,181,1,4,Pommes,0.9,0.63,0.563,0
+Afrique du Sud,202,2,5,Lait ,48.85,59.0718625,0.705,0
+Albanie,3,2,5,Lait ,320.51,387.5767175,0.791,0
+Algérie,4,2,5,Lait ,83.94,101.504445,0.759,0
+Allemagne,79,2,5,Lait ,172.7,208.837475,0.939,1
+Angola,7,2,5,Lait ,7.44,8.99682,0.574,0
+Arabie saoudite,194,2,5,Lait ,41.13,49.7364525,0.857,1
+Argentine,9,2,5,Lait ,170.26,205.886905,0.83,1
+Arménie,1,2,5,Lait ,225.37,272.5286725,0.76,0
+Australie,10,2,5,Lait ,215.38,260.448265,0.938,1
+Autriche,11,2,5,Lait ,179.33,216.8548025,0.914,1
+Bahamas,12,2,5,Lait ,26.95,32.5892875,0.805,1
+Bangladesh,16,2,5,Lait ,17.69,21.3916325,0.614,0
+Barbade,14,2,5,Lait ,23.14,27.982045,0.813,1
+Bélarus,57,2,5,Lait ,84.13,101.7342025,0.817,1
+Belgique,255,2,5,Lait ,105.45,127.5154125,0.919,1
+Belize,23,2,5,Lait ,19.01,22.9878425,0.72,0
+Bolivie (État plurinational de),19,2,5,Lait ,39.84,48.17652,0.703,0
+Bosnie-Herzégovine,80,2,5,Lait ,188.4,227.8227,0.769,0
+Botswana,20,2,5,Lait ,100.9,122.013325,0.728,0
+Brésil,21,2,5,Lait ,140.06,169.367555,0.761,0
+Bulgarie,27,2,5,Lait ,142.92,172.82601,0.816,1
+Cambodge,115,2,5,Lait ,2.99,3.6156575,0.581,0
+Cameroun,32,2,5,Lait ,9.19,11.1130075,0.563,0
+Canada,33,2,5,Lait ,158.44,191.59357,0.929,1
+Chili,40,2,5,Lait ,80.89,97.8162325,0.847,1
+Chine,351,2,5,Lait ,22.51,27.2202175,0.758,0
+Chine - RAS de Hong-Kong,96,2,5,Lait ,23.1,27.933675,0.939,1
+"Chine, Taiwan Province de",214,2,5,Lait ,20.08,24.28174,0.907,1
+Chypre,50,2,5,Lait ,115.81,140.0432425,0.873,1
+Colombie,44,2,5,Lait ,116.73,141.1557525,0.761,0
+Congo,46,2,5,Lait ,1.14,1.378545,0.608,0
+Costa Rica,48,2,5,Lait ,151.05,182.6572125,0.794,0
+Croatie,98,2,5,Lait ,219.19,265.0555075,0.837,1
+Cuba,49,2,5,Lait ,82.47,99.7268475,0.778,0
+Danemark,54,2,5,Lait ,228.38,276.168515,0.93,1
+Égypte,59,2,5,Lait ,36.54,44.185995,0.7,0
+El Salvador,60,2,5,Lait ,98.32,118.89346,0.667,0
+Émirats arabes unis,225,2,5,Lait ,40.27,48.6964975,0.866,1
+Équateur,58,2,5,Lait ,102.57,124.0327725,0.758,0
+Espagne,203,2,5,Lait ,157.85,190.8801125,0.893,1
+Estonie,63,2,5,Lait ,277.83,335.9659275,0.882,1
+Eswatini,209,2,5,Lait ,39.61,47.8983925,0.698,0
+États-Unis d'Amérique,231,2,5,Lait ,227.23,274.7778775,0.92,1
+Éthiopie,238,2,5,Lait ,27.99,33.8469075,0.47,0
+Fidji,66,2,5,Lait ,5.53,6.6871525,0.724,0
+Finlande,67,2,5,Lait ,353.28,427.20384,0.925,1
+France,68,2,5,Lait ,182.83,221.0871775,0.891,1
+Gambie,75,2,5,Lait ,23.34,28.223895,0.466,0
+Géorgie,73,2,5,Lait ,138.14,167.045795,0.786,0
+Ghana,81,2,5,Lait ,2.13,2.5757025,0.596,0
+Grèce,84,2,5,Lait ,227.77,275.4308725,0.872,1
+Grenade,86,2,5,Lait ,25.71,31.0898175,0.763,0
+Guatemala,89,2,5,Lait ,32.89,39.7722325,0.651,0
+Guinée,90,2,5,Lait ,17.44,21.08932,0.466,0
+Honduras,95,2,5,Lait ,66.33,80.2095525,0.623,0
+Hongrie,97,2,5,Lait ,168.58,203.855365,0.845,1
+Inde,100,2,5,Lait ,101.52,122.76306,0.647,0
+Indonésie,101,2,5,Lait ,4.78,5.780215,0.707,0
+Iran (République islamique d'),102,2,5,Lait ,24.33,29.4210525,0.797,0
+Irlande,104,2,5,Lait ,318.54,385.194495,0.942,1
+Islande,99,2,5,Lait ,209.48,253.31369,0.938,1
+Israël,105,2,5,Lait ,172.79,208.9463075,0.906,1
+Italie,106,2,5,Lait ,177.58,214.738615,0.883,1
+Jamaïque,109,2,5,Lait ,71.38,86.316265,0.726,0
+Japon,110,2,5,Lait ,47.27,57.1612475,0.915,1
+Jordanie,112,2,5,Lait ,42.96,51.94938,0.723,0
+Kazakhstan,108,2,5,Lait ,259.22,313.461785,0.817,1
+Kenya,114,2,5,Lait ,73.97,89.4482225,0.579,0
+Koweït,118,2,5,Lait ,44.35,53.6302375,0.808,1
+Lettonie,119,2,5,Lait ,179.26,216.770155,0.854,1
+Libéria,123,2,5,Lait ,2.47,2.9868475,0.465,0
+Lituanie,126,2,5,Lait ,112.25,135.7383125,0.869,1
+Luxembourg,256,2,5,Lait ,109.51,132.4249675,0.909,1
+Macédoine du Nord,154,2,5,Lait ,116.56,140.95018,0.759,0
+Madagascar,129,2,5,Lait ,20.24,24.47522,0.521,0
+Malaisie,131,2,5,Lait ,5.03,6.0825275,0.804,1
+Malawi,130,2,5,Lait ,3.28,3.96634,0.485,0
+Malte,134,2,5,Lait ,106.88,129.24464,0.885,1
+Maroc,143,2,5,Lait ,23.63,28.5745775,0.676,0
+Maurice,137,2,5,Lait ,19.09,23.0845825,0.796,0
+Mexique,138,2,5,Lait ,91.5,110.646375,0.767,0
+Mozambique,144,2,5,Lait ,4.53,5.4779025,0.446,0
+Myanmar,28,2,5,Lait ,16.59,20.0614575,0.797,0
+Namibie,147,2,5,Lait ,56.85,68.7458625,0.645,0
+Népal,149,2,5,Lait ,53.23,64.3683775,0.579,0
+Nicaragua,157,2,5,Lait ,64.78,78.335215,0.651,0
+Niger,158,2,5,Lait ,39.95,48.3095375,0.394,0
+Nigéria,159,2,5,Lait ,1.28,1.54784,0.534,0
+Norvège,162,2,5,Lait ,168.44,203.68607,0.954,1
+Nouvelle-Zélande,156,2,5,Lait ,126.63,153.1273275,0.921,1
+Oman,221,2,5,Lait ,100.12,121.07011,0.834,1
+Ouganda,226,2,5,Lait ,34.99,42.3116575,0.528,0
+Ouzbékistan,235,2,5,Lait ,182.5,220.688125,0.71,0
+Pakistan,165,2,5,Lait ,174.41,210.9052925,0.56,0
+Panama,166,2,5,Lait ,41.88,50.64339,0.795,0
+Paraguay,169,2,5,Lait ,47.08,56.93149,0.724,0
+Pays-Bas,150,2,5,Lait ,279.02,337.404935,0.933,1
+Pérou,170,2,5,Lait ,54.95,66.4482875,0.759,0
+Philippines,171,2,5,Lait ,0.82,0.991585,0.712,0
+Pologne,173,2,5,Lait ,165.35,199.9494875,0.872,1
+Portugal,174,2,5,Lait ,131.6,159.1373,0.85,1
+République-Unie de Tanzanie,215,2,5,Lait ,26.74,32.335345,0.528,0
+Roumanie,183,2,5,Lait ,232.01,280.5580925,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,2,5,Lait ,205.91,248.9966675,0.92,1
+Rwanda,184,2,5,Lait ,14.47,17.4978475,0.536,0
+Sénégal,195,2,5,Lait ,8.35,10.0972375,0.505,0
+Serbie,272,2,5,Lait ,158.75,191.9684375,0.799,0
+Sierra Leone,197,2,5,Lait ,3.89,4.7039825,0.438,0
+Slovaquie,199,2,5,Lait ,166.55,201.4005875,0.857,1
+Slovénie,198,2,5,Lait ,140.28,169.63359,0.902,1
+Sri Lanka,38,2,5,Lait ,11.07,13.3863975,0.78,0
+Suède,210,2,5,Lait ,173.52,209.82906,0.937,1
+Suisse,211,2,5,Lait ,286.33,346.2445525,0.946,1
+Tchéquie,167,2,5,Lait ,146.04,176.59887,0.891,1
+Thaïlande,216,2,5,Lait ,15.78,19.081965,0.765,0
+Togo,217,2,5,Lait ,4.77,5.7681225,0.513,0
+Trinité-et-Tobago,220,2,5,Lait ,28.98,35.044065,0.799,0
+Tunisie,222,2,5,Lait ,94.41,114.1652925,0.739,0
+Turquie,223,2,5,Lait ,164.97,199.4899725,0.806,1
+Ukraine,230,2,5,Lait ,145.08,175.43799,0.75,0
+Uruguay,234,2,5,Lait ,164.29,198.6676825,0.808,1
+Venezuela (République bolivarienne du),236,2,5,Lait ,86.7,104.841975,0.726,0
+Viet Nam,237,2,5,Lait ,6.94,8.392195,0.693,0
+Zambie,251,2,5,Lait ,7.53,9.1056525,0.591,0
+Zimbabwe,181,2,5,Lait ,22.58,27.304865,0.563,0
+Afrique du Sud,202,2,6,Oeufs,5.78,4.865026,0.705,0
+Albanie,3,2,6,Oeufs,14.66,12.339322,0.791,0
+Algérie,4,2,6,Oeufs,8.5,7.15445,0.759,0
+Allemagne,79,2,6,Oeufs,12.77,10.748509,0.939,1
+Angola,7,2,6,Oeufs,0.09,0.075753,0.574,0
+Arabie saoudite,194,2,6,Oeufs,6.8,5.72356,0.857,1
+Argentine,9,2,6,Oeufs,15.77,13.273609,0.83,1
+Arménie,1,2,6,Oeufs,11.19,9.418623,0.76,0
+Australie,10,2,6,Oeufs,8.13,6.843021,0.938,1
+Autriche,11,2,6,Oeufs,14.61,12.297237,0.914,1
+Bahamas,12,2,6,Oeufs,6.6,5.55522,0.805,1
+Bangladesh,16,2,6,Oeufs,3.57,3.004869,0.614,0
+Barbade,14,2,6,Oeufs,9.35,7.869895,0.813,1
+Bélarus,57,2,6,Oeufs,13.08,11.009436,0.817,1
+Belgique,255,2,6,Oeufs,8.74,7.356458,0.919,1
+Belize,23,2,6,Oeufs,4.62,3.888654,0.72,0
+Bolivie (État plurinational de),19,2,6,Oeufs,7.73,6.506341,0.703,0
+Bosnie-Herzégovine,80,2,6,Oeufs,5.56,4.679852,0.769,0
+Botswana,20,2,6,Oeufs,1.1,0.92587,0.728,0
+Brésil,21,2,6,Oeufs,10.32,8.686344,0.761,0
+Bulgarie,27,2,6,Oeufs,8.48,7.137616,0.816,1
+Cambodge,115,2,6,Oeufs,1.25,1.052125,0.581,0
+Cameroun,32,2,6,Oeufs,0.37,0.311429,0.563,0
+Canada,33,2,6,Oeufs,14.42,12.137314,0.929,1
+Chili,40,2,6,Oeufs,9.9,8.33283,0.847,1
+Chine,351,2,6,Oeufs,19.61,16.505737,0.758,0
+Chine - RAS de Hong-Kong,96,2,6,Oeufs,21.84,18.382728,0.939,1
+"Chine, Taiwan Province de",214,2,6,Oeufs,14.18,11.935306,0.907,1
+Chypre,50,2,6,Oeufs,7.88,6.632596,0.873,1
+Colombie,44,2,6,Oeufs,13.15,11.068355,0.761,0
+Congo,46,2,6,Oeufs,0.56,0.471352,0.608,0
+Costa Rica,48,2,6,Oeufs,11.16,9.393372,0.794,0
+Croatie,98,2,6,Oeufs,9.42,7.928814,0.837,1
+Cuba,49,2,6,Oeufs,9.09,7.651053,0.778,0
+Danemark,54,2,6,Oeufs,15.8,13.29886,0.93,1
+Égypte,59,2,6,Oeufs,4.26,3.585642,0.7,0
+El Salvador,60,2,6,Oeufs,8.89,7.482713,0.667,0
+Émirats arabes unis,225,2,6,Oeufs,13.33,11.219861,0.866,1
+Équateur,58,2,6,Oeufs,7.4,6.22858,0.758,0
+Espagne,203,2,6,Oeufs,14.51,12.213067,0.893,1
+Estonie,63,2,6,Oeufs,12.38,10.420246,0.882,1
+Eswatini,209,2,6,Oeufs,1.74,1.464558,0.698,0
+États-Unis d'Amérique,231,2,6,Oeufs,15.84,13.332528,0.92,1
+Éthiopie,238,2,6,Oeufs,0.43,0.361931,0.47,0
+Fidji,66,2,6,Oeufs,5.61,4.721937,0.724,0
+Finlande,67,2,6,Oeufs,10.74,9.039858,0.925,1
+France,68,2,6,Oeufs,12.09,10.176153,0.891,1
+Gambie,75,2,6,Oeufs,1.18,0.993206,0.466,0
+Géorgie,73,2,6,Oeufs,8.17,6.876689,0.786,0
+Ghana,81,2,6,Oeufs,1.14,0.959538,0.596,0
+Grèce,84,2,6,Oeufs,9.28,7.810976,0.872,1
+Grenade,86,2,6,Oeufs,9.68,8.147656,0.763,0
+Guatemala,89,2,6,Oeufs,15.25,12.835925,0.651,0
+Guinée,90,2,6,Oeufs,1.78,1.498226,0.466,0
+Honduras,95,2,6,Oeufs,4.34,3.652978,0.623,0
+Hongrie,97,2,6,Oeufs,13.91,11.708047,0.845,1
+Inde,100,2,6,Oeufs,3.05,2.567185,0.647,0
+Indonésie,101,2,6,Oeufs,5.76,4.848192,0.707,0
+Iran (République islamique d'),102,2,6,Oeufs,5.98,5.033366,0.797,0
+Irlande,104,2,6,Oeufs,9.39,7.903563,0.942,1
+Islande,99,2,6,Oeufs,10.65,8.964105,0.938,1
+Israël,105,2,6,Oeufs,11.69,9.839473,0.906,1
+Italie,106,2,6,Oeufs,11.64,9.797388,0.883,1
+Jamaïque,109,2,6,Oeufs,2.48,2.087416,0.726,0
+Japon,110,2,6,Oeufs,19.61,16.505737,0.915,1
+Jordanie,112,2,6,Oeufs,2.77,2.331509,0.723,0
+Kazakhstan,108,2,6,Oeufs,8.76,7.373292,0.817,1
+Kenya,114,2,6,Oeufs,1.33,1.119461,0.579,0
+Koweït,118,2,6,Oeufs,18.16,15.285272,0.808,1
+Lettonie,119,2,6,Oeufs,11.8,9.93206,0.854,1
+Libéria,123,2,6,Oeufs,1.92,1.616064,0.465,0
+Lituanie,126,2,6,Oeufs,14.9,12.54133,0.869,1
+Luxembourg,256,2,6,Oeufs,15.43,12.987431,0.909,1
+Macédoine du Nord,154,2,6,Oeufs,5.86,4.932362,0.759,0
+Madagascar,129,2,6,Oeufs,0.61,0.513437,0.521,0
+Malaisie,131,2,6,Oeufs,19.52,16.429984,0.804,1
+Malawi,130,2,6,Oeufs,1.03,0.866951,0.485,0
+Malte,134,2,6,Oeufs,12.39,10.428663,0.885,1
+Maroc,143,2,6,Oeufs,8.73,7.348041,0.676,0
+Maurice,137,2,6,Oeufs,6.45,5.428965,0.796,0
+Mexique,138,2,6,Oeufs,19.48,16.396316,0.767,0
+Mozambique,144,2,6,Oeufs,2,1.6834,0.446,0
+Myanmar,28,2,6,Oeufs,9.29,7.819393,0.797,0
+Namibie,147,2,6,Oeufs,1.25,1.052125,0.645,0
+Népal,149,2,6,Oeufs,2.16,1.818072,0.579,0
+Nicaragua,157,2,6,Oeufs,5.65,4.755605,0.651,0
+Niger,158,2,6,Oeufs,0.25,0.210425,0.394,0
+Nigéria,159,2,6,Oeufs,3.15,2.651355,0.534,0
+Norvège,162,2,6,Oeufs,11.97,10.075149,0.954,1
+Nouvelle-Zélande,156,2,6,Oeufs,10.74,9.039858,0.921,1
+Oman,221,2,6,Oeufs,8.15,6.859855,0.834,1
+Ouganda,226,2,6,Oeufs,0.77,0.648109,0.528,0
+Ouzbékistan,235,2,6,Oeufs,6.24,5.252208,0.71,0
+Pakistan,165,2,6,Oeufs,3.26,2.743942,0.56,0
+Panama,166,2,6,Oeufs,6.28,5.285876,0.795,0
+Paraguay,169,2,6,Oeufs,19.77,16.640409,0.724,0
+Pays-Bas,150,2,6,Oeufs,19.91,16.758247,0.933,1
+Pérou,170,2,6,Oeufs,9.67,8.139239,0.759,0
+Philippines,171,2,6,Oeufs,4.31,3.627727,0.712,0
+Pologne,173,2,6,Oeufs,6.54,5.504718,0.872,1
+Portugal,174,2,6,Oeufs,9.77,8.223409,0.85,1
+République-Unie de Tanzanie,215,2,6,Oeufs,1.56,1.313052,0.528,0
+Roumanie,183,2,6,Oeufs,13.6,11.44712,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,2,6,Oeufs,11.31,9.519627,0.92,1
+Rwanda,184,2,6,Oeufs,0.41,0.345097,0.536,0
+Sénégal,195,2,6,Oeufs,1.66,1.397222,0.505,0
+Serbie,272,2,6,Oeufs,9.46,7.962482,0.799,0
+Sierra Leone,197,2,6,Oeufs,1.64,1.380388,0.438,0
+Slovaquie,199,2,6,Oeufs,13.06,10.992602,0.857,1
+Slovénie,198,2,6,Oeufs,9.85,8.290745,0.902,1
+Sri Lanka,38,2,6,Oeufs,4.46,3.753982,0.78,0
+Suède,210,2,6,Oeufs,13.94,11.733298,0.937,1
+Suisse,211,2,6,Oeufs,10.03,8.442251,0.946,1
+Tchéquie,167,2,6,Oeufs,8.77,7.381709,0.891,1
+Thaïlande,216,2,6,Oeufs,11.96,10.066732,0.765,0
+Togo,217,2,6,Oeufs,0.96,0.808032,0.513,0
+Trinité-et-Tobago,220,2,6,Oeufs,4.15,3.493055,0.799,0
+Tunisie,222,2,6,Oeufs,7.5,6.31275,0.739,0
+Turquie,223,2,6,Oeufs,8.56,7.204952,0.806,1
+Ukraine,230,2,6,Oeufs,14.34,12.069978,0.75,0
+Uruguay,234,2,6,Oeufs,11.58,9.746886,0.808,1
+Venezuela (République bolivarienne du),236,2,6,Oeufs,3.73,3.139541,0.726,0
+Viet Nam,237,2,6,Oeufs,4.75,3.998075,0.693,0
+Zambie,251,2,6,Oeufs,3.42,2.878614,0.591,0
+Zimbabwe,181,2,6,Oeufs,1.37,1.153129,0.563,0
+Afrique du Sud,202,2,7,Poissons,0.12,1.908,0.705,0
+Albanie,3,2,7,Poissons,0.45,7.155,0.791,0
+Algérie,4,2,7,Poissons,0.32,5.088,0.759,0
+Allemagne,79,2,7,Poissons,0.36,5.724,0.939,1
+Angola,7,2,7,Poissons,0.74,11.766,0.574,0
+Arabie saoudite,194,2,7,Poissons,0.38,6.042,0.857,1
+Argentine,9,2,7,Poissons,0.01,0.159,0.83,1
+Arménie,1,2,7,Poissons,0.17,2.703,0.76,0
+Australie,10,2,7,Poissons,2.08,33.072,0.938,1
+Autriche,11,2,7,Poissons,0.71,11.289,0.914,1
+Bahamas,12,2,7,Poissons,1.65,26.235,0.805,1
+Bangladesh,16,2,7,Poissons,1.84,29.256,0.614,0
+Barbade,14,2,7,Poissons,12.21,194.139,0.813,1
+Bélarus,57,2,7,Poissons,0.5,7.95,0.817,1
+Belgique,255,2,7,Poissons,0.36,5.724,0.919,1
+Belize,23,2,7,Poissons,0.87,13.833,0.72,0
+Bolivie (État plurinational de),19,2,7,Poissons,1.2,19.08,0.703,0
+Bosnie-Herzégovine,80,2,7,Poissons,0.74,11.766,0.769,0
+Botswana,20,2,7,Poissons,0.06,0.954,0.728,0
+Brésil,21,2,7,Poissons,0.28,4.452,0.761,0
+Bulgarie,27,2,7,Poissons,0.33,5.247,0.816,1
+Cambodge,115,2,7,Poissons,5.6,89.04,0.581,0
+Cameroun,32,2,7,Poissons,2.32,36.888,0.563,0
+Canada,33,2,7,Poissons,0.15,2.385,0.929,1
+Chili,40,2,7,Poissons,0.16,2.544,0.847,1
+Chine,351,2,7,Poissons,1.62,25.758,0.758,0
+Chine - RAS de Hong-Kong,96,2,7,Poissons,12.42,197.478,0.939,1
+"Chine, Taiwan Province de",214,2,7,Poissons,2.69,42.771,0.907,1
+Chypre,50,2,7,Poissons,0.73,11.607,0.873,1
+Colombie,44,2,7,Poissons,0.22,3.498,0.761,0
+Congo,46,2,7,Poissons,2.08,33.072,0.608,0
+Costa Rica,48,2,7,Poissons,0.65,10.335,0.794,0
+Croatie,98,2,7,Poissons,0.08,1.272,0.837,1
+Cuba,49,2,7,Poissons,0.39,6.201,0.778,0
+Danemark,54,2,7,Poissons,0,0,0.93,1
+Égypte,59,2,7,Poissons,0.15,2.385,0.7,0
+El Salvador,60,2,7,Poissons,0.15,2.385,0.667,0
+Émirats arabes unis,225,2,7,Poissons,0.67,10.653,0.866,1
+Équateur,58,2,7,Poissons,0.01,0.159,0.758,0
+Espagne,203,2,7,Poissons,0.81,12.879,0.893,1
+Estonie,63,2,7,Poissons,0,0,0.882,1
+Eswatini,209,2,7,Poissons,1.23,19.557,0.698,0
+États-Unis d'Amérique,231,2,7,Poissons,0.02,0.318,0.92,1
+Éthiopie,238,2,7,Poissons,0,0,0.47,0
+Fidji,66,2,7,Poissons,4.89,77.751,0.724,0
+Finlande,67,2,7,Poissons,1.23,19.557,0.925,1
+France,68,2,7,Poissons,0.12,1.908,0.891,1
+Gambie,75,2,7,Poissons,0.52,8.268,0.466,0
+Géorgie,73,2,7,Poissons,1.42,22.578,0.786,0
+Ghana,81,2,7,Poissons,0.46,7.314,0.596,0
+Grèce,84,2,7,Poissons,0.49,7.791,0.872,1
+Grenade,86,2,7,Poissons,2.52,40.068,0.763,0
+Guatemala,89,2,7,Poissons,0.05,0.795,0.651,0
+Guinée,90,2,7,Poissons,0.18,2.862,0.466,0
+Honduras,95,2,7,Poissons,0.19,3.021,0.623,0
+Hongrie,97,2,7,Poissons,0.18,2.862,0.845,1
+Inde,100,2,7,Poissons,0.07,1.113,0.647,0
+Indonésie,101,2,7,Poissons,0.98,15.582,0.707,0
+Iran (République islamique d'),102,2,7,Poissons,0.4,6.36,0.797,0
+Irlande,104,2,7,Poissons,0,0,0.942,1
+Islande,99,2,7,Poissons,0,0,0.938,1
+Israël,105,2,7,Poissons,0.17,2.703,0.906,1
+Italie,106,2,7,Poissons,1.44,22.896,0.883,1
+Jamaïque,109,2,7,Poissons,12.98,206.382,0.726,0
+Japon,110,2,7,Poissons,5.14,81.726,0.915,1
+Jordanie,112,2,7,Poissons,0.93,14.787,0.723,0
+Kazakhstan,108,2,7,Poissons,0.34,5.406,0.817,1
+Kenya,114,2,7,Poissons,0.28,4.452,0.579,0
+Koweït,118,2,7,Poissons,1.62,25.758,0.808,1
+Lettonie,119,2,7,Poissons,9.72,154.548,0.854,1
+Libéria,123,2,7,Poissons,0.52,8.268,0.465,0
+Lituanie,126,2,7,Poissons,0,0,0.869,1
+Luxembourg,256,2,7,Poissons,1.13,17.967,0.909,1
+Macédoine du Nord,154,2,7,Poissons,0.12,1.908,0.759,0
+Madagascar,129,2,7,Poissons,2.23,35.457,0.521,0
+Malaisie,131,2,7,Poissons,10.76,171.084,0.804,1
+Malawi,130,2,7,Poissons,0.22,3.498,0.485,0
+Malte,134,2,7,Poissons,1.61,25.599,0.885,1
+Maroc,143,2,7,Poissons,1.08,17.172,0.676,0
+Maurice,137,2,7,Poissons,3.82,60.738,0.796,0
+Mexique,138,2,7,Poissons,0.18,2.862,0.767,0
+Mozambique,144,2,7,Poissons,7.44,118.296,0.446,0
+Myanmar,28,2,7,Poissons,13.02,207.018,0.797,0
+Namibie,147,2,7,Poissons,0.23,3.657,0.645,0
+Népal,149,2,7,Poissons,0.24,3.816,0.579,0
+Nicaragua,157,2,7,Poissons,0.06,0.954,0.651,0
+Niger,158,2,7,Poissons,0.04,0.636,0.394,0
+Nigéria,159,2,7,Poissons,0.36,5.724,0.534,0
+Norvège,162,2,7,Poissons,0.05,0.795,0.954,1
+Nouvelle-Zélande,156,2,7,Poissons,0.02,0.318,0.921,1
+Oman,221,2,7,Poissons,3.24,51.516,0.834,1
+Ouganda,226,2,7,Poissons,0.13,2.067,0.528,0
+Ouzbékistan,235,2,7,Poissons,0.01,0.159,0.71,0
+Pakistan,165,2,7,Poissons,0,0,0.56,0
+Panama,166,2,7,Poissons,0.57,9.063,0.795,0
+Paraguay,169,2,7,Poissons,0.01,0.159,0.724,0
+Pays-Bas,150,2,7,Poissons,0,0,0.933,1
+Pérou,170,2,7,Poissons,1.96,31.164,0.759,0
+Philippines,171,2,7,Poissons,0.36,5.724,0.712,0
+Pologne,173,2,7,Poissons,0,0,0.872,1
+Portugal,174,2,7,Poissons,2.13,33.867,0.85,1
+République-Unie de Tanzanie,215,2,7,Poissons,0.06,0.954,0.528,0
+Roumanie,183,2,7,Poissons,0.31,4.929,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,2,7,Poissons,0.02,0.318,0.92,1
+Rwanda,184,2,7,Poissons,5.08,80.772,0.536,0
+Sénégal,195,2,7,Poissons,0.03,0.477,0.505,0
+Serbie,272,2,7,Poissons,0.02,0.318,0.799,0
+Sierra Leone,197,2,7,Poissons,1.5,23.85,0.438,0
+Slovaquie,199,2,7,Poissons,0.53,8.427,0.857,1
+Slovénie,198,2,7,Poissons,0.62,9.858,0.902,1
+Sri Lanka,38,2,7,Poissons,2.34,37.206,0.78,0
+Suède,210,2,7,Poissons,0.72,11.448,0.937,1
+Suisse,211,2,7,Poissons,1.56,24.804,0.946,1
+Tchéquie,167,2,7,Poissons,0.81,12.879,0.891,1
+Thaïlande,216,2,7,Poissons,0.06,0.954,0.765,0
+Togo,217,2,7,Poissons,1.79,28.461,0.513,0
+Trinité-et-Tobago,220,2,7,Poissons,6.67,106.053,0.799,0
+Tunisie,222,2,7,Poissons,0.44,6.996,0.739,0
+Turquie,223,2,7,Poissons,0,0,0.806,1
+Ukraine,230,2,7,Poissons,0.19,3.021,0.75,0
+Uruguay,234,2,7,Poissons,0.43,6.837,0.808,1
+Venezuela (République bolivarienne du),236,2,7,Poissons,0.07,1.113,0.726,0
+Viet Nam,237,2,7,Poissons,9.59,152.481,0.693,0
+Zambie,251,2,7,Poissons,0.05,0.795,0.591,0
+Zimbabwe,181,2,7,Poissons,0.07,1.113,0.563,0
+Afrique du Sud,202,2,8,Viande de Bovins,17.08,482.930168,0.705,0
+Albanie,3,2,8,Viande de Bovins,13.75,388.77575,0.791,0
+Algérie,4,2,8,Viande de Bovins,4.68,132.325128,0.759,0
+Allemagne,79,2,8,Viande de Bovins,14.91,421.574286,0.939,1
+Angola,7,2,8,Viande de Bovins,4.65,131.47689,0.574,0
+Arabie saoudite,194,2,8,Viande de Bovins,4.81,136.000826,0.857,1
+Argentine,9,2,8,Viande de Bovins,51.77,1463.776042,0.83,1
+Arménie,1,2,8,Viande de Bovins,17.82,503.853372,0.76,0
+Australie,10,2,8,Viande de Bovins,28.27,799.322942,0.938,1
+Autriche,11,2,8,Viande de Bovins,15.45,436.84257,0.914,1
+Bahamas,12,2,8,Viande de Bovins,5.79,163.709934,0.805,1
+Bangladesh,16,2,8,Viande de Bovins,1.24,35.060504,0.614,0
+Barbade,14,2,8,Viande de Bovins,12.01,339.577946,0.813,1
+Bélarus,57,2,8,Viande de Bovins,16.95,479.25447,0.817,1
+Belgique,255,2,8,Viande de Bovins,11.59,327.702614,0.919,1
+Belize,23,2,8,Viande de Bovins,3.26,92.175196,0.72,0
+Bolivie (État plurinational de),19,2,8,Viande de Bovins,22.93,648.336578,0.703,0
+Bosnie-Herzégovine,80,2,8,Viande de Bovins,12.4,350.60504,0.769,0
+Botswana,20,2,8,Viande de Bovins,5.53,156.358538,0.728,0
+Brésil,21,2,8,Viande de Bovins,37.05,1047.57393,0.761,0
+Bulgarie,27,2,8,Viande de Bovins,3.68,104.050528,0.816,1
+Cambodge,115,2,8,Viande de Bovins,4.34,122.711764,0.581,0
+Cameroun,32,2,8,Viande de Bovins,3.52,99.526592,0.563,0
+Canada,33,2,8,Viande de Bovins,26.05,736.55333,0.929,1
+Chili,40,2,8,Viande de Bovins,21.53,608.752138,0.847,1
+Chine,351,2,8,Viande de Bovins,5.08,143.634968,0.758,0
+Chine - RAS de Hong-Kong,96,2,8,Viande de Bovins,22.85,646.07461,0.939,1
+"Chine, Taiwan Province de",214,2,8,Viande de Bovins,5.01,141.655746,0.907,1
+Chypre,50,2,8,Viande de Bovins,6.72,190.005312,0.873,1
+Colombie,44,2,8,Viande de Bovins,14.67,414.788382,0.761,0
+Congo,46,2,8,Viande de Bovins,3.07,86.803022,0.608,0
+Costa Rica,48,2,8,Viande de Bovins,12.19,344.667374,0.794,0
+Croatie,98,2,8,Viande de Bovins,12.27,346.929342,0.837,1
+Cuba,49,2,8,Viande de Bovins,6.6,186.61236,0.778,0
+Danemark,54,2,8,Viande de Bovins,23.5,664.4531,0.93,1
+Égypte,59,2,8,Viande de Bovins,10.16,287.269936,0.7,0
+El Salvador,60,2,8,Viande de Bovins,6.31,178.412726,0.667,0
+Émirats arabes unis,225,2,8,Viande de Bovins,13.14,371.528244,0.866,1
+Équateur,58,2,8,Viande de Bovins,12.9,364.74234,0.758,0
+Espagne,203,2,8,Viande de Bovins,11.52,325.723392,0.893,1
+Estonie,63,2,8,Viande de Bovins,7.45,210.64577,0.882,1
+Eswatini,209,2,8,Viande de Bovins,15.11,427.229206,0.698,0
+États-Unis d'Amérique,231,2,8,Viande de Bovins,37.08,1048.422168,0.92,1
+Éthiopie,238,2,8,Viande de Bovins,3.76,106.312496,0.47,0
+Fidji,66,2,8,Viande de Bovins,4.89,138.262794,0.724,0
+Finlande,67,2,8,Viande de Bovins,18.79,531.279734,0.925,1
+France,68,2,8,Viande de Bovins,20.56,581.325776,0.891,1
+Gambie,75,2,8,Viande de Bovins,2.65,74.92769,0.466,0
+Géorgie,73,2,8,Viande de Bovins,6.08,171.909568,0.786,0
+Ghana,81,2,8,Viande de Bovins,1.01,28.557346,0.596,0
+Grèce,84,2,8,Viande de Bovins,15.45,436.84257,0.872,1
+Grenade,86,2,8,Viande de Bovins,2.63,74.362198,0.763,0
+Guatemala,89,2,8,Viande de Bovins,11.33,320.351218,0.651,0
+Guinée,90,2,8,Viande de Bovins,7.42,209.797532,0.466,0
+Honduras,95,2,8,Viande de Bovins,6.84,193.398264,0.623,0
+Hongrie,97,2,8,Viande de Bovins,4.19,118.470574,0.845,1
+Inde,100,2,8,Viande de Bovins,1,28.2746,0.647,0
+Indonésie,101,2,8,Viande de Bovins,2.87,81.148102,0.707,0
+Iran (République islamique d'),102,2,8,Viande de Bovins,5.1,144.20046,0.797,0
+Irlande,104,2,8,Viande de Bovins,20.28,573.408888,0.942,1
+Islande,99,2,8,Viande de Bovins,14.51,410.264446,0.938,1
+Israël,105,2,8,Viande de Bovins,27.12,766.807152,0.906,1
+Italie,106,2,8,Viande de Bovins,15.83,447.586918,0.883,1
+Jamaïque,109,2,8,Viande de Bovins,3.41,96.416386,0.726,0
+Japon,110,2,8,Viande de Bovins,9.19,259.843574,0.915,1
+Jordanie,112,2,8,Viande de Bovins,4.73,133.738858,0.723,0
+Kazakhstan,108,2,8,Viande de Bovins,23.66,668.977036,0.817,1
+Kenya,114,2,8,Viande de Bovins,10.77,304.517442,0.579,0
+Koweït,118,2,8,Viande de Bovins,7.75,219.12815,0.808,1
+Lettonie,119,2,8,Viande de Bovins,5.56,157.206776,0.854,1
+Libéria,123,2,8,Viande de Bovins,0.62,17.530252,0.465,0
+Lituanie,126,2,8,Viande de Bovins,4.89,138.262794,0.869,1
+Luxembourg,256,2,8,Viande de Bovins,24.63,696.403398,0.909,1
+Macédoine du Nord,154,2,8,Viande de Bovins,7.06,199.618676,0.759,0
+Madagascar,129,2,8,Viande de Bovins,6.79,191.984534,0.521,0
+Malaisie,131,2,8,Viande de Bovins,5.57,157.489522,0.804,1
+Malawi,130,2,8,Viande de Bovins,2.6,73.51396,0.485,0
+Malte,134,2,8,Viande de Bovins,18.76,530.431496,0.885,1
+Maroc,143,2,8,Viande de Bovins,7.16,202.446136,0.676,0
+Maurice,137,2,8,Viande de Bovins,5.2,147.02792,0.796,0
+Mexique,138,2,8,Viande de Bovins,14.96,422.988016,0.767,0
+Mozambique,144,2,8,Viande de Bovins,0.68,19.226728,0.446,0
+Myanmar,28,2,8,Viande de Bovins,5.41,152.965586,0.797,0
+Namibie,147,2,8,Viande de Bovins,7.6,214.88696,0.645,0
+Népal,149,2,8,Viande de Bovins,8.46,239.203116,0.579,0
+Nicaragua,157,2,8,Viande de Bovins,3.59,101.505814,0.651,0
+Niger,158,2,8,Viande de Bovins,2.77,78.320642,0.394,0
+Nigéria,159,2,8,Viande de Bovins,1.58,44.673868,0.534,0
+Norvège,162,2,8,Viande de Bovins,18.17,513.749482,0.954,1
+Nouvelle-Zélande,156,2,8,Viande de Bovins,21.7,613.55882,0.921,1
+Oman,221,2,8,Viande de Bovins,7.62,215.452452,0.834,1
+Ouganda,226,2,8,Viande de Bovins,5.6,158.33776,0.528,0
+Ouzbékistan,235,2,8,Viande de Bovins,28.16,796.212736,0.71,0
+Pakistan,165,2,8,Viande de Bovins,8.77,247.968242,0.56,0
+Panama,166,2,8,Viande de Bovins,16.6,469.35836,0.795,0
+Paraguay,169,2,8,Viande de Bovins,25.49,720.719554,0.724,0
+Pays-Bas,150,2,8,Viande de Bovins,15.84,447.869664,0.933,1
+Pérou,170,2,8,Viande de Bovins,4.35,122.99451,0.759,0
+Philippines,171,2,8,Viande de Bovins,4.77,134.869842,0.712,0
+Pologne,173,2,8,Viande de Bovins,0.19,5.372174,0.872,1
+Portugal,174,2,8,Viande de Bovins,17.77,502.439642,0.85,1
+République-Unie de Tanzanie,215,2,8,Viande de Bovins,7.23,204.425358,0.528,0
+Roumanie,183,2,8,Viande de Bovins,5.31,150.138126,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,2,8,Viande de Bovins,17.75,501.87415,0.92,1
+Rwanda,184,2,8,Viande de Bovins,2.49,70.403754,0.536,0
+Sénégal,195,2,8,Viande de Bovins,5.89,166.537394,0.505,0
+Serbie,272,2,8,Viande de Bovins,6.62,187.177852,0.799,0
+Sierra Leone,197,2,8,Viande de Bovins,1.45,40.99817,0.438,0
+Slovaquie,199,2,8,Viande de Bovins,5.83,164.840918,0.857,1
+Slovénie,198,2,8,Viande de Bovins,17.37,491.129802,0.902,1
+Sri Lanka,38,2,8,Viande de Bovins,1.16,32.798536,0.78,0
+Suède,210,2,8,Viande de Bovins,23.51,664.735846,0.937,1
+Suisse,211,2,8,Viande de Bovins,18.32,517.990672,0.946,1
+Tchéquie,167,2,8,Viande de Bovins,9.78,276.525588,0.891,1
+Thaïlande,216,2,8,Viande de Bovins,1.8,50.89428,0.765,0
+Togo,217,2,8,Viande de Bovins,1.43,40.432678,0.513,0
+Trinité-et-Tobago,220,2,8,Viande de Bovins,4.47,126.387462,0.799,0
+Tunisie,222,2,8,Viande de Bovins,5.56,157.206776,0.739,0
+Turquie,223,2,8,Viande de Bovins,12.93,365.590578,0.806,1
+Ukraine,230,2,8,Viande de Bovins,7.39,208.949294,0.75,0
+Uruguay,234,2,8,Viande de Bovins,31.25,883.58125,0.808,1
+Venezuela (République bolivarienne du),236,2,8,Viande de Bovins,14.83,419.312318,0.726,0
+Viet Nam,237,2,8,Viande de Bovins,12.48,352.867008,0.693,0
+Zambie,251,2,8,Viande de Bovins,6.12,173.040552,0.591,0
+Zimbabwe,181,2,8,Viande de Bovins,7.37,208.383802,0.563,0
+Afrique du Sud,202,2,9,Viande de porcins,4.32,16.067592,0.705,0
+Albanie,3,2,9,Viande de porcins,7.3,27.151255,0.791,0
+Algérie,4,2,9,Viande de porcins,0,0,0.759,0
+Allemagne,79,2,9,Viande de porcins,44.66,166.106171,0.939,1
+Angola,7,2,9,Viande de porcins,7.44,27.671964,0.574,0
+Argentine,9,2,9,Viande de porcins,13.44,49.988064,0.83,1
+Arménie,1,2,9,Viande de porcins,5.79,21.5350365,0.76,0
+Australie,10,2,9,Viande de porcins,25.44,94.620264,0.938,1
+Autriche,11,2,9,Viande de porcins,48.99,182.2109565,0.914,1
+Bahamas,12,2,9,Viande de porcins,27.13,100.9059655,0.805,1
+Bangladesh,16,2,9,Viande de porcins,0,0,0.614,0
+Barbade,14,2,9,Viande de porcins,7.97,29.6432195,0.813,1
+Bélarus,57,2,9,Viande de porcins,36.29,134.9752115,0.817,1
+Belgique,255,2,9,Viande de porcins,28.58,106.299023,0.919,1
+Belize,23,2,9,Viande de porcins,11.76,43.739556,0.72,0
+Bolivie (État plurinational de),19,2,9,Viande de porcins,9.48,35.259438,0.703,0
+Bosnie-Herzégovine,80,2,9,Viande de porcins,9.26,34.441181,0.769,0
+Botswana,20,2,9,Viande de porcins,0.7,2.603545,0.728,0
+Brésil,21,2,9,Viande de porcins,13.65,50.7691275,0.761,0
+Bulgarie,27,2,9,Viande de porcins,29.12,108.307472,0.816,1
+Cambodge,115,2,9,Viande de porcins,6.02,22.390487,0.581,0
+Cameroun,32,2,9,Viande de porcins,1.34,4.983929,0.563,0
+Canada,33,2,9,Viande de porcins,24.07,89.5247545,0.929,1
+Chili,40,2,9,Viande de porcins,24.17,89.8966895,0.847,1
+Chine,351,2,9,Viande de porcins,37.92,141.037752,0.758,0
+Chine - RAS de Hong-Kong,96,2,9,Viande de porcins,57.86,215.201591,0.939,1
+"Chine, Taiwan Province de",214,2,9,Viande de porcins,38.47,143.0833945,0.907,1
+Chypre,50,2,9,Viande de porcins,39.23,145.9101005,0.873,1
+Colombie,44,2,9,Viande de porcins,9.37,34.8503095,0.761,0
+Congo,46,2,9,Viande de porcins,6.22,23.134357,0.608,0
+Costa Rica,48,2,9,Viande de porcins,12.34,45.896779,0.794,0
+Croatie,98,2,9,Viande de porcins,49.1,182.620085,0.837,1
+Cuba,49,2,9,Viande de porcins,18.56,69.031136,0.778,0
+Danemark,54,2,9,Viande de porcins,25.8,95.95923,0.93,1
+Égypte,59,2,9,Viande de porcins,0.01,0.0371935,0.7,0
+El Salvador,60,2,9,Viande de porcins,3.76,13.984756,0.667,0
+Équateur,58,2,9,Viande de porcins,12.47,46.3802945,0.758,0
+Espagne,203,2,9,Viande de porcins,53.57,199.2455795,0.893,1
+Estonie,63,2,9,Viande de porcins,34.41,127.9828335,0.882,1
+Eswatini,209,2,9,Viande de porcins,1.9,7.066765,0.698,0
+États-Unis d'Amérique,231,2,9,Viande de porcins,26.81,99.7157735,0.92,1
+Éthiopie,238,2,9,Viande de porcins,0.03,0.1115805,0.47,0
+Fidji,66,2,9,Viande de porcins,4.66,17.332171,0.724,0
+Finlande,67,2,9,Viande de porcins,36.17,134.5288895,0.925,1
+France,68,2,9,Viande de porcins,31.09,115.6345915,0.891,1
+Gambie,75,2,9,Viande de porcins,0.27,1.0042245,0.466,0
+Géorgie,73,2,9,Viande de porcins,9.69,36.0405015,0.786,0
+Ghana,81,2,9,Viande de porcins,1.08,4.016898,0.596,0
+Grèce,84,2,9,Viande de porcins,28.61,106.4106035,0.872,1
+Grenade,86,2,9,Viande de porcins,8.63,32.0979905,0.763,0
+Guatemala,89,2,9,Viande de porcins,4.66,17.332171,0.651,0
+Guinée,90,2,9,Viande de porcins,0.18,0.669483,0.466,0
+Honduras,95,2,9,Viande de porcins,4.51,16.7742685,0.623,0
+Hongrie,97,2,9,Viande de porcins,49.82,185.298017,0.845,1
+Inde,100,2,9,Viande de porcins,0.23,0.8554505,0.647,0
+Indonésie,101,2,9,Viande de porcins,1.3,4.835155,0.707,0
+Iran (République islamique d'),102,2,9,Viande de porcins,0,0,0.797,0
+Irlande,104,2,9,Viande de porcins,28.85,107.3032475,0.942,1
+Islande,99,2,9,Viande de porcins,20.68,76.916158,0.938,1
+Israël,105,2,9,Viande de porcins,1.55,5.7649925,0.906,1
+Italie,106,2,9,Viande de porcins,40.24,149.666644,0.883,1
+Jamaïque,109,2,9,Viande de porcins,3.42,12.720177,0.726,0
+Japon,110,2,9,Viande de porcins,21.39,79.5568965,0.915,1
+Jordanie,112,2,9,Viande de porcins,0.01,0.0371935,0.723,0
+Kazakhstan,108,2,9,Viande de porcins,7.57,28.1554795,0.817,1
+Kenya,114,2,9,Viande de porcins,0.27,1.0042245,0.579,0
+Lettonie,119,2,9,Viande de porcins,41.4,153.98109,0.854,1
+Libéria,123,2,9,Viande de porcins,4.75,17.6669125,0.465,0
+Lituanie,126,2,9,Viande de porcins,47.5,176.669125,0.869,1
+Luxembourg,256,2,9,Viande de porcins,33.97,126.3463195,0.909,1
+Macédoine du Nord,154,2,9,Viande de porcins,9.82,36.524017,0.759,0
+Madagascar,129,2,9,Viande de porcins,2.47,9.1867945,0.521,0
+Malaisie,131,2,9,Viande de porcins,7.84,29.159704,0.804,1
+Malawi,130,2,9,Viande de porcins,4.56,16.960236,0.485,0
+Malte,134,2,9,Viande de porcins,28.11,104.5509285,0.885,1
+Maroc,143,2,9,Viande de porcins,0.02,0.074387,0.676,0
+Maurice,137,2,9,Viande de porcins,2.86,10.637341,0.796,0
+Mexique,138,2,9,Viande de porcins,17.26,64.195981,0.767,0
+Mozambique,144,2,9,Viande de porcins,5.05,18.7827175,0.446,0
+Myanmar,28,2,9,Viande de porcins,12.05,44.8181675,0.797,0
+Namibie,147,2,9,Viande de porcins,4.07,15.1377545,0.645,0
+Népal,149,2,9,Viande de porcins,0.81,3.0126735,0.579,0
+Nicaragua,157,2,9,Viande de porcins,5.12,19.043072,0.651,0
+Niger,158,2,9,Viande de porcins,0.07,0.2603545,0.394,0
+Nigéria,159,2,9,Viande de porcins,1.48,5.504638,0.534,0
+Norvège,162,2,9,Viande de porcins,22.79,84.7639865,0.954,1
+Nouvelle-Zélande,156,2,9,Viande de porcins,26.08,97.000648,0.921,1
+Oman,221,2,9,Viande de porcins,0.01,0.0371935,0.834,1
+Ouganda,226,2,9,Viande de porcins,3.09,11.4927915,0.528,0
+Ouzbékistan,235,2,9,Viande de porcins,0.95,3.5333825,0.71,0
+Pakistan,165,2,9,Viande de porcins,0,0,0.56,0
+Panama,166,2,9,Viande de porcins,13.56,50.434386,0.795,0
+Paraguay,169,2,9,Viande de porcins,6.95,25.8494825,0.724,0
+Pays-Bas,150,2,9,Viande de porcins,30.35,112.8822725,0.933,1
+Pérou,170,2,9,Viande de porcins,4.54,16.885849,0.759,0
+Philippines,171,2,9,Viande de porcins,18.67,69.4402645,0.712,0
+Pologne,173,2,9,Viande de porcins,54.81,203.8575735,0.872,1
+Portugal,174,2,9,Viande de porcins,38.88,144.608328,0.85,1
+République-Unie de Tanzanie,215,2,9,Viande de porcins,0.28,1.041418,0.528,0
+Roumanie,183,2,9,Viande de porcins,35.29,131.2558615,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,2,9,Viande de porcins,24.03,89.3759805,0.92,1
+Rwanda,184,2,9,Viande de porcins,0.86,3.198641,0.536,0
+Sénégal,195,2,9,Viande de porcins,1,3.71935,0.505,0
+Serbie,272,2,9,Viande de porcins,35.89,133.4874715,0.799,0
+Sierra Leone,197,2,9,Viande de porcins,0.88,3.273028,0.438,0
+Slovaquie,199,2,9,Viande de porcins,36.45,135.5703075,0.857,1
+Slovénie,198,2,9,Viande de porcins,30.59,113.7749165,0.902,1
+Sri Lanka,38,2,9,Viande de porcins,0.04,0.148774,0.78,0
+Suède,210,2,9,Viande de porcins,31.09,115.6345915,0.937,1
+Suisse,211,2,9,Viande de porcins,29.24,108.753794,0.946,1
+Tchéquie,167,2,9,Viande de porcins,44.01,163.6885935,0.891,1
+Thaïlande,216,2,9,Viande de porcins,14.02,52.145287,0.765,0
+Togo,217,2,9,Viande de porcins,1.35,5.0211225,0.513,0
+Trinité-et-Tobago,220,2,9,Viande de porcins,6.35,23.6178725,0.799,0
+Tunisie,222,2,9,Viande de porcins,0,0,0.739,0
+Turquie,223,2,9,Viande de porcins,0,0,0.806,1
+Ukraine,230,2,9,Viande de porcins,16.6,61.74121,0.75,0
+Uruguay,234,2,9,Viande de porcins,14.21,52.8519635,0.808,1
+Venezuela (République bolivarienne du),236,2,9,Viande de porcins,4.47,16.6254945,0.726,0
+Viet Nam,237,2,9,Viande de porcins,36.78,136.797693,0.693,0
+Zambie,251,2,9,Viande de porcins,1.69,6.2857015,0.591,0
+Zimbabwe,181,2,9,Viande de porcins,1.22,4.537607,0.563,0
+Afrique du Sud,202,2,10,Viande de Volailles,37.14,35.424132,0.705,0
+Albanie,3,2,10,Viande de Volailles,11.45,10.92101,0.791,0
+Algérie,4,2,10,Viande de Volailles,7.35,7.01043,0.759,0
+Allemagne,79,2,10,Viande de Volailles,18.05,17.21609,0.939,1
+Angola,7,2,10,Viande de Volailles,10.2,9.72876,0.574,0
+Arabie saoudite,194,2,10,Viande de Volailles,38.04,36.282552,0.857,1
+Argentine,9,2,10,Viande de Volailles,44.66,42.596708,0.83,1
+Arménie,1,2,10,Viande de Volailles,15.38,14.669444,0.76,0
+Australie,10,2,10,Viande de Volailles,50.63,48.290894,0.938,1
+Autriche,11,2,10,Viande de Volailles,18.2,17.35916,0.914,1
+Bahamas,12,2,10,Viande de Volailles,51.68,49.292384,0.805,1
+Bangladesh,16,2,10,Viande de Volailles,1.61,1.535618,0.614,0
+Barbade,14,2,10,Viande de Volailles,46.04,43.912952,0.813,1
+Bélarus,57,2,10,Viande de Volailles,27.98,26.687324,0.817,1
+Belgique,255,2,10,Viande de Volailles,11.19,10.673022,0.919,1
+Belize,23,2,10,Viande de Volailles,25.68,24.493584,0.72,0
+Bolivie (État plurinational de),19,2,10,Viande de Volailles,45.16,43.073608,0.703,0
+Bosnie-Herzégovine,80,2,10,Viande de Volailles,18.74,17.874212,0.769,0
+Botswana,20,2,10,Viande de Volailles,3.39,3.233382,0.728,0
+Brésil,21,2,10,Viande de Volailles,47.65,45.44857,0.761,0
+Bulgarie,27,2,10,Viande de Volailles,22.05,21.03129,0.816,1
+Cambodge,115,2,10,Viande de Volailles,2.3,2.19374,0.581,0
+Cameroun,32,2,10,Viande de Volailles,3.12,2.975856,0.563,0
+Canada,33,2,10,Viande de Volailles,38.97,37.169586,0.929,1
+Chili,40,2,10,Viande de Volailles,39.85,38.00893,0.847,1
+Chine,351,2,10,Viande de Volailles,14.14,13.486732,0.758,0
+Chine - RAS de Hong-Kong,96,2,10,Viande de Volailles,45.69,43.579122,0.939,1
+"Chine, Taiwan Province de",214,2,10,Viande de Volailles,33.43,31.885534,0.907,1
+Chypre,50,2,10,Viande de Volailles,25.06,23.902228,0.873,1
+Colombie,44,2,10,Viande de Volailles,33.52,31.971376,0.761,0
+Congo,46,2,10,Viande de Volailles,20.95,19.98211,0.608,0
+Costa Rica,48,2,10,Viande de Volailles,26.52,25.294776,0.794,0
+Croatie,98,2,10,Viande de Volailles,10.78,10.281964,0.837,1
+Cuba,49,2,10,Viande de Volailles,28.49,27.173762,0.778,0
+Danemark,54,2,10,Viande de Volailles,25.36,24.188368,0.93,1
+Égypte,59,2,10,Viande de Volailles,16.12,15.375256,0.7,0
+El Salvador,60,2,10,Viande de Volailles,23.45,22.36661,0.667,0
+Émirats arabes unis,225,2,10,Viande de Volailles,44.24,42.196112,0.866,1
+Équateur,58,2,10,Viande de Volailles,20.26,19.323988,0.758,0
+Espagne,203,2,10,Viande de Volailles,30.34,28.938292,0.893,1
+Estonie,63,2,10,Viande de Volailles,21,20.0298,0.882,1
+Eswatini,209,2,10,Viande de Volailles,6.46,6.161548,0.698,0
+États-Unis d'Amérique,231,2,10,Viande de Volailles,55.8,53.22204,0.92,1
+Éthiopie,238,2,10,Viande de Volailles,0.68,0.648584,0.47,0
+Fidji,66,2,10,Viande de Volailles,25.63,24.445894,0.724,0
+Finlande,67,2,10,Viande de Volailles,18.85,17.97913,0.925,1
+France,68,2,10,Viande de Volailles,22.2,21.17436,0.891,1
+Gambie,75,2,10,Viande de Volailles,3.53,3.366914,0.466,0
+Géorgie,73,2,10,Viande de Volailles,15.27,14.564526,0.786,0
+Ghana,81,2,10,Viande de Volailles,7.19,6.857822,0.596,0
+Grèce,84,2,10,Viande de Volailles,15.31,14.602678,0.872,1
+Grenade,86,2,10,Viande de Volailles,43.87,41.843206,0.763,0
+Guatemala,89,2,10,Viande de Volailles,19.42,18.522796,0.651,0
+Guinée,90,2,10,Viande de Volailles,2.07,1.974366,0.466,0
+Honduras,95,2,10,Viande de Volailles,21.58,20.583004,0.623,0
+Hongrie,97,2,10,Viande de Volailles,25.29,24.121602,0.845,1
+Inde,100,2,10,Viande de Volailles,2.21,2.107898,0.647,0
+Indonésie,101,2,10,Viande de Volailles,7.76,7.401488,0.707,0
+Iran (République islamique d'),102,2,10,Viande de Volailles,27.53,26.258114,0.797,0
+Irlande,104,2,10,Viande de Volailles,23.95,22.84351,0.942,1
+Islande,99,2,10,Viande de Volailles,29.99,28.604462,0.938,1
+Israël,105,2,10,Viande de Volailles,67.29,64.181202,0.906,1
+Italie,106,2,10,Viande de Volailles,18.86,17.988668,0.883,1
+Jamaïque,109,2,10,Viande de Volailles,51.09,48.729642,0.726,0
+Japon,110,2,10,Viande de Volailles,18.51,17.654838,0.915,1
+Jordanie,112,2,10,Viande de Volailles,25.81,24.617578,0.723,0
+Kazakhstan,108,2,10,Viande de Volailles,18.24,17.397312,0.817,1
+Kenya,114,2,10,Viande de Volailles,0.61,0.581818,0.579,0
+Koweït,118,2,10,Viande de Volailles,46.25,44.11325,0.808,1
+Lettonie,119,2,10,Viande de Volailles,20.87,19.905806,0.854,1
+Libéria,123,2,10,Viande de Volailles,10.7,10.20566,0.465,0
+Lituanie,126,2,10,Viande de Volailles,28.2,26.89716,0.869,1
+Luxembourg,256,2,10,Viande de Volailles,18.37,17.521306,0.909,1
+Macédoine du Nord,154,2,10,Viande de Volailles,19.78,18.866164,0.759,0
+Madagascar,129,2,10,Viande de Volailles,3.07,2.928166,0.521,0
+Malaisie,131,2,10,Viande de Volailles,38.87,37.074206,0.804,1
+Malawi,130,2,10,Viande de Volailles,1.63,1.554694,0.485,0
+Malte,134,2,10,Viande de Volailles,27.17,25.914746,0.885,1
+Maroc,143,2,10,Viande de Volailles,20.51,19.562438,0.676,0
+Maurice,137,2,10,Viande de Volailles,37.94,36.187172,0.796,0
+Mexique,138,2,10,Viande de Volailles,33.77,32.209826,0.767,0
+Mozambique,144,2,10,Viande de Volailles,1.72,1.640536,0.446,0
+Myanmar,28,2,10,Viande de Volailles,26.25,25.03725,0.797,0
+Namibie,147,2,10,Viande de Volailles,11.36,10.835168,0.645,0
+Népal,149,2,10,Viande de Volailles,1.94,1.850372,0.579,0
+Nicaragua,157,2,10,Viande de Volailles,21.59,20.592542,0.651,0
+Niger,158,2,10,Viande de Volailles,1.08,1.030104,0.394,0
+Nigéria,159,2,10,Viande de Volailles,1.12,1.068256,0.534,0
+Norvège,162,2,10,Viande de Volailles,20.68,19.724584,0.954,1
+Nouvelle-Zélande,156,2,10,Viande de Volailles,26.11,24.903718,0.921,1
+Oman,221,2,10,Viande de Volailles,21.63,20.630694,0.834,1
+Ouganda,226,2,10,Viande de Volailles,1.65,1.57377,0.528,0
+Ouzbékistan,235,2,10,Viande de Volailles,1.85,1.76453,0.71,0
+Pakistan,165,2,10,Viande de Volailles,4.81,4.587778,0.56,0
+Panama,166,2,10,Viande de Volailles,33.72,32.162136,0.795,0
+Paraguay,169,2,10,Viande de Volailles,9.43,8.994334,0.724,0
+Pays-Bas,150,2,10,Viande de Volailles,16.05,15.30849,0.933,1
+Pérou,170,2,10,Viande de Volailles,12.82,12.227716,0.759,0
+Philippines,171,2,10,Viande de Volailles,12.58,11.998804,0.712,0
+Pologne,173,2,10,Viande de Volailles,33.53,31.980914,0.872,1
+Portugal,174,2,10,Viande de Volailles,30.58,29.167204,0.85,1
+République-Unie de Tanzanie,215,2,10,Viande de Volailles,1.25,1.19225,0.528,0
+Roumanie,183,2,10,Viande de Volailles,22.93,21.870634,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,2,10,Viande de Volailles,32.66,31.151108,0.92,1
+Rwanda,184,2,10,Viande de Volailles,1.33,1.268554,0.536,0
+Sénégal,195,2,10,Viande de Volailles,4.56,4.349328,0.505,0
+Serbie,272,2,10,Viande de Volailles,10.16,9.690608,0.799,0
+Sierra Leone,197,2,10,Viande de Volailles,4.14,3.948732,0.438,0
+Slovaquie,199,2,10,Viande de Volailles,13.93,13.286434,0.857,1
+Slovénie,198,2,10,Viande de Volailles,23.98,22.872124,0.902,1
+Sri Lanka,38,2,10,Viande de Volailles,5.22,4.978836,0.78,0
+Suède,210,2,10,Viande de Volailles,16.59,15.823542,0.937,1
+Suisse,211,2,10,Viande de Volailles,15.72,14.993736,0.946,1
+Tchéquie,167,2,10,Viande de Volailles,21.97,20.954986,0.891,1
+Thaïlande,216,2,10,Viande de Volailles,13.1,12.49478,0.765,0
+Togo,217,2,10,Viande de Volailles,7.06,6.733828,0.513,0
+Trinité-et-Tobago,220,2,10,Viande de Volailles,61.8,58.94484,0.799,0
+Tunisie,222,2,10,Viande de Volailles,17.03,16.243214,0.739,0
+Turquie,223,2,10,Viande de Volailles,21.7,20.69746,0.806,1
+Ukraine,230,2,10,Viande de Volailles,23.69,22.595522,0.75,0
+Uruguay,234,2,10,Viande de Volailles,9.17,8.746346,0.808,1
+Venezuela (République bolivarienne du),236,2,10,Viande de Volailles,16.52,15.756776,0.726,0
+Viet Nam,237,2,10,Viande de Volailles,15.25,14.54545,0.693,0
+Zambie,251,2,10,Viande de Volailles,3.3,3.14754,0.591,0
+Zimbabwe,181,2,10,Viande de Volailles,5.27,5.026526,0.563,0
+Afrique du Sud,202,2,11,Viande d'Ovins/Caprins,3.2,112.52656,0.705,0
+Albanie,3,2,11,Viande d'Ovins/Caprins,9.11,320.3490505,0.791,0
+Algérie,4,2,11,Viande d'Ovins/Caprins,7.94,279.206527,0.759,0
+Allemagne,79,2,11,Viande d'Ovins/Caprins,0.82,28.834931,0.939,1
+Angola,7,2,11,Viande d'Ovins/Caprins,0.83,29.1865765,0.574,0
+Arabie saoudite,194,2,11,Viande d'Ovins/Caprins,4.93,173.3612315,0.857,1
+Argentine,9,2,11,Viande d'Ovins/Caprins,1.27,44.6589785,0.83,1
+Arménie,1,2,11,Viande d'Ovins/Caprins,2.95,103.7354225,0.76,0
+Australie,10,2,11,Viande d'Ovins/Caprins,8.77,308.3931035,0.938,1
+Autriche,11,2,11,Viande d'Ovins/Caprins,1.12,39.384296,0.914,1
+Bahamas,12,2,11,Viande d'Ovins/Caprins,2.87,100.9222585,0.805,1
+Bangladesh,16,2,11,Viande d'Ovins/Caprins,1.43,50.2853065,0.614,0
+Barbade,14,2,11,Viande d'Ovins/Caprins,4.22,148.394401,0.813,1
+Bélarus,57,2,11,Viande d'Ovins/Caprins,0.11,3.8681005,0.817,1
+Belgique,255,2,11,Viande d'Ovins/Caprins,1.06,37.274423,0.919,1
+Belize,23,2,11,Viande d'Ovins/Caprins,0.11,3.8681005,0.72,0
+Bolivie (État plurinational de),19,2,11,Viande d'Ovins/Caprins,2.59,91.0761845,0.703,0
+Bosnie-Herzégovine,80,2,11,Viande d'Ovins/Caprins,0.41,14.4174655,0.769,0
+Botswana,20,2,11,Viande d'Ovins/Caprins,2.83,99.5156765,0.728,0
+Brésil,21,2,11,Viande d'Ovins/Caprins,0.6,21.09873,0.761,0
+Bulgarie,27,2,11,Viande d'Ovins/Caprins,1.38,48.527079,0.816,1
+Cambodge,115,2,11,Viande d'Ovins/Caprins,0.01,0.3516455,0.581,0
+Cameroun,32,2,11,Viande d'Ovins/Caprins,1.22,42.900751,0.563,0
+Canada,33,2,11,Viande d'Ovins/Caprins,0.99,34.8129045,0.929,1
+Chili,40,2,11,Viande d'Ovins/Caprins,0.48,16.878984,0.847,1
+Chine,351,2,11,Viande d'Ovins/Caprins,3.5,123.075925,0.758,0
+Chine - RAS de Hong-Kong,96,2,11,Viande d'Ovins/Caprins,1.21,42.5491055,0.939,1
+"Chine, Taiwan Province de",214,2,11,Viande d'Ovins/Caprins,0.93,32.7030315,0.907,1
+Chypre,50,2,11,Viande d'Ovins/Caprins,4.82,169.493131,0.873,1
+Colombie,44,2,11,Viande d'Ovins/Caprins,0.16,5.626328,0.761,0
+Congo,46,2,11,Viande d'Ovins/Caprins,0.38,13.362529,0.608,0
+Costa Rica,48,2,11,Viande d'Ovins/Caprins,0.01,0.3516455,0.794,0
+Croatie,98,2,11,Viande d'Ovins/Caprins,1.45,50.9885975,0.837,1
+Cuba,49,2,11,Viande d'Ovins/Caprins,1.18,41.494169,0.778,0
+Danemark,54,2,11,Viande d'Ovins/Caprins,0.9,31.648095,0.93,1
+Égypte,59,2,11,Viande d'Ovins/Caprins,0.98,34.461259,0.7,0
+El Salvador,60,2,11,Viande d'Ovins/Caprins,0.02,0.703291,0.667,0
+Émirats arabes unis,225,2,11,Viande d'Ovins/Caprins,8.43,296.4371565,0.866,1
+Équateur,58,2,11,Viande d'Ovins/Caprins,0.34,11.955947,0.758,0
+Espagne,203,2,11,Viande d'Ovins/Caprins,2.07,72.7906185,0.893,1
+Estonie,63,2,11,Viande d'Ovins/Caprins,0.46,16.175693,0.882,1
+Eswatini,209,2,11,Viande d'Ovins/Caprins,2.02,71.032391,0.698,0
+États-Unis d'Amérique,231,2,11,Viande d'Ovins/Caprins,0.51,17.9339205,0.92,1
+Éthiopie,238,2,11,Viande d'Ovins/Caprins,1.65,58.0215075,0.47,0
+Fidji,66,2,11,Viande d'Ovins/Caprins,5.87,206.4159085,0.724,0
+Finlande,67,2,11,Viande d'Ovins/Caprins,0.56,19.692148,0.925,1
+France,68,2,11,Viande d'Ovins/Caprins,2.76,97.054158,0.891,1
+Gambie,75,2,11,Viande d'Ovins/Caprins,0.67,23.5602485,0.466,0
+Géorgie,73,2,11,Viande d'Ovins/Caprins,0.79,27.7799945,0.786,0
+Ghana,81,2,11,Viande d'Ovins/Caprins,1.71,60.1313805,0.596,0
+Grèce,84,2,11,Viande d'Ovins/Caprins,7.08,248.965014,0.872,1
+Grenade,86,2,11,Viande d'Ovins/Caprins,1.36,47.823788,0.763,0
+Guatemala,89,2,11,Viande d'Ovins/Caprins,0.14,4.923037,0.651,0
+Guinée,90,2,11,Viande d'Ovins/Caprins,1.85,65.0544175,0.466,0
+Honduras,95,2,11,Viande d'Ovins/Caprins,0.03,1.0549365,0.623,0
+Hongrie,97,2,11,Viande d'Ovins/Caprins,0.14,4.923037,0.845,1
+Inde,100,2,11,Viande d'Ovins/Caprins,0.53,18.6372115,0.647,0
+Indonésie,101,2,11,Viande d'Ovins/Caprins,0.48,16.878984,0.707,0
+Iran (République islamique d'),102,2,11,Viande d'Ovins/Caprins,4.99,175.4711045,0.797,0
+Irlande,104,2,11,Viande d'Ovins/Caprins,3.41,119.9111155,0.942,1
+Islande,99,2,11,Viande d'Ovins/Caprins,21.95,771.8618725,0.938,1
+Israël,105,2,11,Viande d'Ovins/Caprins,1.85,65.0544175,0.906,1
+Italie,106,2,11,Viande d'Ovins/Caprins,0.87,30.5931585,0.883,1
+Jamaïque,109,2,11,Viande d'Ovins/Caprins,1,35.16455,0.726,0
+Japon,110,2,11,Viande d'Ovins/Caprins,0.15,5.2746825,0.915,1
+Jordanie,112,2,11,Viande d'Ovins/Caprins,4.7,165.273385,0.723,0
+Kazakhstan,108,2,11,Viande d'Ovins/Caprins,9.27,325.9753785,0.817,1
+Kenya,114,2,11,Viande d'Ovins/Caprins,1.42,49.933661,0.579,0
+Koweït,118,2,11,Viande d'Ovins/Caprins,12.9,453.622695,0.808,1
+Lettonie,119,2,11,Viande d'Ovins/Caprins,0.37,13.0108835,0.854,1
+Libéria,123,2,11,Viande d'Ovins/Caprins,0.47,16.5273385,0.465,0
+Lituanie,126,2,11,Viande d'Ovins/Caprins,0.19,6.6812645,0.869,1
+Luxembourg,256,2,11,Viande d'Ovins/Caprins,1.34,47.120497,0.909,1
+Macédoine du Nord,154,2,11,Viande d'Ovins/Caprins,0.55,19.3405025,0.759,0
+Madagascar,129,2,11,Viande d'Ovins/Caprins,0.56,19.692148,0.521,0
+Malaisie,131,2,11,Viande d'Ovins/Caprins,0.84,29.538222,0.804,1
+Malawi,130,2,11,Viande d'Ovins/Caprins,2.18,76.658719,0.485,0
+Malte,134,2,11,Viande d'Ovins/Caprins,1.44,50.636952,0.885,1
+Maroc,143,2,11,Viande d'Ovins/Caprins,5.07,178.2842685,0.676,0
+Maurice,137,2,11,Viande d'Ovins/Caprins,4.17,146.6361735,0.796,0
+Mexique,138,2,11,Viande d'Ovins/Caprins,0.92,32.351386,0.767,0
+Mozambique,144,2,11,Viande d'Ovins/Caprins,0.82,28.834931,0.446,0
+Myanmar,28,2,11,Viande d'Ovins/Caprins,0.98,34.461259,0.797,0
+Namibie,147,2,11,Viande d'Ovins/Caprins,3.62,127.295671,0.645,0
+Népal,149,2,11,Viande d'Ovins/Caprins,2.58,90.724539,0.579,0
+Nicaragua,157,2,11,Viande d'Ovins/Caprins,0.01,0.3516455,0.651,0
+Niger,158,2,11,Viande d'Ovins/Caprins,2.31,81.2301105,0.394,0
+Nigéria,159,2,11,Viande d'Ovins/Caprins,2.17,76.3070735,0.534,0
+Norvège,162,2,11,Viande d'Ovins/Caprins,5.23,183.9105965,0.954,1
+Nouvelle-Zélande,156,2,11,Viande d'Ovins/Caprins,12.63,444.1282665,0.921,1
+Oman,221,2,11,Viande d'Ovins/Caprins,11.65,409.6670075,0.834,1
+Ouganda,226,2,11,Viande d'Ovins/Caprins,1.21,42.5491055,0.528,0
+Ouzbékistan,235,2,11,Viande d'Ovins/Caprins,4.31,151.5592105,0.71,0
+Pakistan,165,2,11,Viande d'Ovins/Caprins,2.43,85.4498565,0.56,0
+Panama,166,2,11,Viande d'Ovins/Caprins,0.01,0.3516455,0.795,0
+Paraguay,169,2,11,Viande d'Ovins/Caprins,0.36,12.659238,0.724,0
+Pays-Bas,150,2,11,Viande d'Ovins/Caprins,1.01,35.5161955,0.933,1
+Pérou,170,2,11,Viande d'Ovins/Caprins,0.84,29.538222,0.759,0
+Philippines,171,2,11,Viande d'Ovins/Caprins,0.58,20.395439,0.712,0
+Pologne,173,2,11,Viande d'Ovins/Caprins,0.03,1.0549365,0.872,1
+Portugal,174,2,11,Viande d'Ovins/Caprins,2.35,82.6366925,0.85,1
+République-Unie de Tanzanie,215,2,11,Viande d'Ovins/Caprins,1.17,41.1425235,0.528,0
+Roumanie,183,2,11,Viande d'Ovins/Caprins,3.97,139.6032635,0.816,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,229,2,11,Viande d'Ovins/Caprins,4.27,150.1526285,0.92,1
+Rwanda,184,2,11,Viande d'Ovins/Caprins,1.52,53.450116,0.536,0
+Sénégal,195,2,11,Viande d'Ovins/Caprins,3.05,107.2518775,0.505,0
+Serbie,272,2,11,Viande d'Ovins/Caprins,3.18,111.823269,0.799,0
+Sierra Leone,197,2,11,Viande d'Ovins/Caprins,0.51,17.9339205,0.438,0
+Slovaquie,199,2,11,Viande d'Ovins/Caprins,0.14,4.923037,0.857,1
+Slovénie,198,2,11,Viande d'Ovins/Caprins,0.86,30.241513,0.902,1
+Sri Lanka,38,2,11,Viande d'Ovins/Caprins,0.08,2.813164,0.78,0
+Suède,210,2,11,Viande d'Ovins/Caprins,1.4,49.23037,0.937,1
+Suisse,211,2,11,Viande d'Ovins/Caprins,1.47,51.6918885,0.946,1
+Tchéquie,167,2,11,Viande d'Ovins/Caprins,0.32,11.252656,0.891,1
+Thaïlande,216,2,11,Viande d'Ovins/Caprins,0.05,1.7582275,0.765,0
+Togo,217,2,11,Viande d'Ovins/Caprins,1.44,50.636952,0.513,0
+Trinité-et-Tobago,220,2,11,Viande d'Ovins/Caprins,2.31,81.2301105,0.799,0
+Tunisie,222,2,11,Viande d'Ovins/Caprins,5.57,195.8665435,0.739,0
+Turquie,223,2,11,Viande d'Ovins/Caprins,5.33,187.4270515,0.806,1
+Ukraine,230,2,11,Viande d'Ovins/Caprins,0.3,10.549365,0.75,0
+Uruguay,234,2,11,Viande d'Ovins/Caprins,0.91,31.9997405,0.808,1
+Venezuela (République bolivarienne du),236,2,11,Viande d'Ovins/Caprins,0.29,10.1977195,0.726,0
+Viet Nam,237,2,11,Viande d'Ovins/Caprins,0.14,4.923037,0.693,0
+Zambie,251,2,11,Viande d'Ovins/Caprins,0.69,24.2635395,0.591,0
+Zimbabwe,181,2,11,Viande d'Ovins/Caprins,1.07,37.6260685,0.563,0

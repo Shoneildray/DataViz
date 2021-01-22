@@ -1,0 +1,16 @@
+div.tooltipVisu1 {
+  position: absolute;
+  text-align: center;
+  width: 240px;
+  height: 100px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: rgb(228, 228, 228);
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+#visu1 svg {
+  transform: scale(0.7) translate(-400px, -150px);
+}
