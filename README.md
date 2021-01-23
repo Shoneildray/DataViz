@@ -21,12 +21,14 @@ Pour plus d'informations, voir la [page Wiki du projet](https://github.com/Shone
 # Data Vizualisation 2020, group 19 #
 ### The ecological impact of our food ###
 <p align="justify">
-Nowadays, we often hear about ecology when it comes to water or electricity consumption, or to greenhouse gas emissions by vehicles or factories... but food production and consumption is still a far too neglected factor : it is even one of its main sources.
-We know that simply presenting facts and figures is not always a very efficient method to make the importance of various concepts understood, so we invite you to test your knowledge of this subject during a quizz which will show you what is the real cost of what you eat, and how to have more eco-friendly meals.
+Nowadays, we often hear about ecology when it comes to water or electricity consumption, to greenhouse gas emissions by vehicles or factories... but food production and consumption is still a far too neglected factor : it is even one of its main sources.
+We know that simply presenting facts and figures is not always a very efficient way to get people to understand the importance of various concepts, so we suggest you test your knowledge of this subject through a quiz which will enlighten you about the real cost of what you eat, and how to have more eco-friendly meals.
+</br>
 </br>
 The quiz : [C'est par ici !](https://shoneildray.github.io/Nourriture_et_Environnement_ProjetDataViz2020/index.html)
 </br>
-This project was made during the Data Vizualisation course of Data Science and AI masters at Université Claude Bernard Lyon 1
+</br>
+This project has been made during the Data Vizualisation course of Data Science and AI masters at Université Claude Bernard Lyon 1
 
 For more informations, see the [Wiki page of this project](https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki).
 <p>
