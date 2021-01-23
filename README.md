@@ -6,14 +6,15 @@ De nos jours, nous entendons souvent parler d'écologie quand il s'agit de conso
 Nous savons que simplement présenter des faits et des chiffres n'est pas toujours une méthode efficace pour faire comprendre l'importance de différents concepts, c'est pourquoi nous vous proposons de tester vos connaissances sur le sujet à travers un quiz qui vous apprendra quel est le réel coût de ce qu'il y a dans votre assiette, et comment agir pour manger plus responsable.
 </br>
 </br>
-Le quiz :  !
+Le quiz :  <a href="https://shoneildray.github.io/Nourriture_et_Environnement_ProjetDataViz2020/index.html"> C'est par ici ! </a> !
 </br>
 </br>
 Projet réalisé dans le cadre de l'UE Data Visualisation des Masters Data Science & IA - Université Claude Bernard Lyon 1  
-</p>    
-Pour plus d'informations, voir la [page Wiki du projet](https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki).
-
-
+</br>
+</br>
+Pour plus d'informations, voir la <a href="https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki"> page Wiki du projet </a>.
+</br>
+</p>
 
 ![](https://github.com/Shoneildray/DataViz/blob/main/Images%20wiki/19-teaser.png)
 
@@ -25,10 +26,10 @@ Nowadays, we often hear about ecology when it comes to water or electricity cons
 We know that simply presenting facts and figures is not always a very efficient way to get people to understand the importance of various concepts, so we suggest you test your knowledge of this subject through a quiz which will enlighten you about the real cost of what you eat, and how to have more eco-friendly meals.
 </br>
 </br>
-The quiz : [C'est par ici !](https://shoneildray.github.io/Nourriture_et_Environnement_ProjetDataViz2020/index.html)
+Le quiz :  <a href="https://shoneildray.github.io/Nourriture_et_Environnement_ProjetDataViz2020/index.html"> C'est par ici ! </a> !
 </br>
 </br>
 This project has been made during the Data Vizualisation course of Data Science and AI masters at Université Claude Bernard Lyon 1
-
-For more informations, see the [Wiki page of this project](https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki).
 <p>
+For more informations, see the [Wiki page of this project](https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki).
+
