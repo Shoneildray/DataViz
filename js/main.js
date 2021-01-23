@@ -188,7 +188,7 @@ boutonSuivant.onclick = function () {
     }
     output =
       output +
-      "</br></br></br> En r&eacutesumé : </br> L'Organisation des Nations Unis avertit : si la population mondiale atteint les 9,6 milliards d'individus d’ici 2050, l’équivalent de près de trois planètes pourrait être nécessaire afin de fournir les ressources nécessaires pour maintenir nos modes de vie actuels." +
+      "</br></br></br> En r&eacutesumé : </br></br> <p align="justify"> L'Organisation des Nations Unis avertit : si la population mondiale atteint les 9,6 milliards d'individus d’ici 2050, l’équivalent de près de trois planètes pourrait être nécessaire afin de fournir les ressources nécessaires pour maintenir nos modes de vie actuels.</p>" +
       "</br> Bien que la plupart des incidences de notre alimentation sur l'environnement se produisent lors de la phase de production (agriculture ou transformation des aliments) (visualisation 1, 3 et 4), les m&eacutenages influencent &eacutegalement ces effets &agrave travers leurs choix et leurs habitudes alimentaires (visualisation 1, 2 et 3) Bas&eacutes sur un sch&eacutema qui &eacutepuise nos ressources naturelles d'un c&ocirct&eacute et accumule massivement les d&eacutechets de l'autre, nos modes de production et de consommation ne sont pas viables. L’&eacutevolution des comportements de consommation et de production constitue donc un levier essentiel pour r&eacuteduire notre empreinte carbone." +
       "</br></br> Voici quelques conseils à la portée de tous pour agir collectivement : " +
       "</br> - Mangez moins de produits animaux" +
