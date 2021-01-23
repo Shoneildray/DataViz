@@ -1,7 +1,7 @@
 var questions = [
   {
     question:
-      "Avez-vous une idée de l’écart entre l’empreinte carbone des produits d’origine animale et celle des produits d’origine non animale ?",
+      "Vous avez certainement déjà entendu dire que notre consommation de viande est problématique, mais avez-vous une idée de l’écart entre l’empreinte carbone des produits d’origine animale et celle des produits d’origine non animale ?",
 
     answers: {
       a: "4 fois plus élevé",
