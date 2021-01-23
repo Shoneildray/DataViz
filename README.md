@@ -6,13 +6,14 @@ De nos jours, nous entendons souvent parler d'écologie quand il s'agit de conso
 Nous savons que simplement présenter des faits et des chiffres n'est pas toujours une méthode efficace pour faire comprendre l'importance de différents concepts, c'est pourquoi nous vous proposons de tester vos connaissances sur le sujet à travers un quiz qui vous apprendra quel est le réel coût de ce qu'il y a dans votre assiette, et comment agir pour manger plus responsable.
 </br>
 </br>
-Le quiz : [C'est par ici !](https://shoneildray.github.io/Nourriture_et_Environnement_ProjetDataViz2020/index.html)
+</p>
+Le quiz : [page Wiki du projet](https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki) !
 </br>
 </br>
 Projet réalisé dans le cadre de l'UE Data Visualisation des Masters Data Science & IA - Université Claude Bernard Lyon 1  
       
 Pour plus d'informations, voir la [page Wiki du projet](https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki).
-</p>
+
 
 
 ![](https://github.com/Shoneildray/DataViz/blob/main/Images%20wiki/19-teaser.png)
