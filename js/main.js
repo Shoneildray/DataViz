@@ -183,8 +183,9 @@ boutonSuivant.onclick = function () {
     boutonRecommencer.hidden = false;
     var output =
       '<h3 class="question--counter"> <b> Vos résultats : </b> </h3><h2 class="question--query">' +
+      "Vous avez eu" +
       nombreBonnesReponses +
-      " sur " +
+      " bonnes réponses sur " +
       numQuestion +
       "</br>";
     if (nombreBonnesReponses === 4) {
@@ -203,14 +204,16 @@ boutonSuivant.onclick = function () {
 
     output =
       output +
-      "</br></br></br> Quelques infos supplémentaires : </br> Si la population mondiale atteint les 9,6 milliards d'individus d’ici 2050, l’équivalent de près de trois planètes pourrait être nécessaire afin de fournir les ressources nécessaires pour maintenir les modes de vie actuels." +
-      "</br> Bien que la plupart des incidences de l’environnement sur l’alimentation se produisent dans la phase de production (agriculture ou transformation des aliments) (VISU 1 et 3), les ménages influencent également ces effets à travers leurs choix et leurs habitudes alimentaires (VISU 2) Basés sur un schéma qui épuise nos ressources naturelles d’un côté et accumule massivement les déchets de l’autre, nos modes de production et de consommation ne sont pas viables. L’évolution des comportements de consommation et de production constitue donc un levier essentiel pour réduire notre empreinte carbone. " +
-      "</br></br> Voici quelques conseils à la portée de tous pour agir collectivement : " +
-      "</br> - Mangez moins de produits animaux" +
-      "</br> - Mangez local MAIS SURTOUT de saison, puisque c'est la façon de produire qui est la plus coûteuse écologiquement parlant (devant les transports)" +
-      "</br> - Choisissez les filières directes" +
-      "</br> - N’achetez que ce dont vous avez besoin, réutilisez les restes ou partagez-les/échangez-les" +
-      "</br> - Faites un peu de place pour les façons de produire alternatives, aucune solution n’est idéale pour l’instant" +
+      "</br></br></br> En résumé : </br> <p align="justify"> L'Organisation des Nations Unis avertit : si la population mondiale atteint les 9.6 milliards d'individus d'ici 2050, l'&eacutequivalent de pr&egraves de trois plan&egravetes pourrait &ecirctre n&eacutecessaire afin de fournir les ressources n&eacutecessaires pour maintenir nos modes de vie actuels<p>" +
+      "</br></br> <p align="justify"> Bien que la plupart des incidences de notre alimentation sur l'environnement se produisent lors de la phase de production (agriculture ou transformation des aliments) (visualisation 1, 3 et 4), les m&eacutenages influencent &eacutegalement ces effets &agrave travers leurs choix et leurs habitudes alimentaires (visualisation 1, 2 et 3) Bas&eacutes sur un sch&eacutema qui &eacutepuise nos ressources naturelles d'un c&ocirct&eacute et accumule massivement les d&eacutechets de l'autre, nos modes de production et de consommation ne sont pas viables. L’&eacutevolution des comportements de consommation et de production constitue donc un levier essentiel pour r&eacuteduire notre empreinte carbone. <p>" +
+      "</br></br> Voici quelques conseils &agrave la port&eacutee de tous pour agir collectivement : </br></br> " +
+      "<ul>
+       <li> Mangez moins de produits animaux </li>
+       <li> Mangez local MAIS AVANT TOUT de saison, puisque l'aspect le plus probl&eacutematique &eacutecologiquement parlant est la façon de produire, devant les transports. Qu'ils soient produits localement localement sous serre ou importés de r&eacutegion lointaines, les l&eacutegumes et fruits d'&eacutet&eacute consomm&eacutes l'hiver ont un lours bilan carbone </li>
+       <li> Privil&eacutegiez les fili&egraveres directes, les march&eacute et les commerces de proximit&eacutes </li>
+       <li> N’achetez que ce dont vous avez besoin, r&eacuteutilisez les restes ou donnez-les </li>
+       <li> Faites un peu de place pour les façons de produire alternatives, bien qu'aucune solution ne soit id&eacuteale pour l’instant </li>
+      </ul>" +
       "</h2>";
 
     zoneQuizz.innerHTML = output;
