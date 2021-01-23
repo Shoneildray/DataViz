@@ -2,7 +2,6 @@ var questions = [
   {
     question:
       "Vous avez certainement déjà entendu dire que notre consommation de viande est problématique, mais avez-vous une idée de l’écart entre l’empreinte carbone des produits d’origine animale et celle des produits d’origine non animale ?",
-
     answers: {
       a: "4 fois plus élevé",
       b: "7 fois plus élevé",
@@ -11,7 +10,6 @@ var questions = [
     correctAnswer: "c",
     explication: ""
   },
-
   {
     question:
       "Produire de la nourriture nécessite des ressource et n’est pas sans conséquence sur le plan écologique, comme nous venons de le voir avec la visualisation précédente. D’après vous, quelle proportion des aliments produits pour la consommation humaine est perdue ou gaspillée à l’échelle mondiale chaque année ?",
@@ -55,7 +53,6 @@ var boutonRecommencer = document.getElementById("recommencer");
 var liste_visu = [];
 var numQuestion = 0;
 var nombreBonnesReponses = 0;
-
 function showQuestions(
   questions,
   quizContainer,
@@ -69,11 +66,9 @@ function showQuestions(
   }
   var output = [];
   var answers;
-
   // first reset the list of answers
   answers = [];
   var letter;
-
   // for each available answer to this question...
   for (letter in questions[i].answers) {
     answers.push(
@@ -84,7 +79,6 @@ function showQuestions(
         "</li>"
     );
   }
-
   // add this question and its answers to the output
   output.push(
     '<h3 class="question--counter">Question ' +
@@ -97,13 +91,11 @@ function showQuestions(
       answers.join("") +
       "</ol>"
   );
-
   // finally combine our output list into one string of html and put it on the page
   if (quizContainer) quizContainer.innerHTML = output;
   //////////////////////////////////////////
   setClickEvent();
 }
-
 function showResults(
   questions,
   quizContainer,
@@ -113,18 +105,14 @@ function showResults(
 ) {
   // gather answer containers from our quiz
   var answerContainers = quizContainer.querySelectorAll(".question--answers");
-
   // keep track of user's answers
   var userAnswer = "";
-
   ///////////////////////////////////////////////////////////////////////
   // selected answer
   var userAnswerSelector =
     answerContainers[0].querySelector(".selected") || null;
-
   if (userAnswerSelector)
     userAnswer = userAnswerSelector.getAttribute("data-value");
-
   if (
     userAnswer === questions[i].correctAnswer ||
     (i === 2 && userAnswerSelector)
@@ -140,29 +128,24 @@ function showResults(
     correctAnswer.classList.add("correct");
     if (userAnswerSelector) userAnswerSelector.classList.add("wrong");
   }
-
   // affiche le nombre de bonnes réponses
   explicationContainer.innerHTML = questions[i].explication;
   resultsContainer.hidden = false;
   explicationContainer.hidden = false;
-
   if (i === 3) {
     setTimeout(function () {
       alert("Cliquez sur la visualisation pour la faire évoluer");
     }, 5000);
   }
 }
-
 // affiche une question
 showQuestions(questions, zoneQuizz, boutonReponse, boutonSuivant, 0);
-
 boutonReponse.onclick = function () {
   liste_visu[numQuestion].hidden = false;
   boutonReponse.hidden = true;
   boutonSuivant.hidden = false;
   showResults(questions, zoneQuizz, zoneExplication, zoneExpl, numQuestion);
 };
-
 boutonSuivant.onclick = function () {
   liste_visu[numQuestion].hidden = true;
   boutonReponse.hidden = true;
@@ -183,9 +166,8 @@ boutonSuivant.onclick = function () {
     boutonRecommencer.hidden = false;
     var output =
       '<h3 class="question--counter"> <b> Vos résultats : </b> </h3><h2 class="question--query">' +
-      "Vous avez eu" +
       nombreBonnesReponses +
-      " bonnes réponses sur " +
+      " sur " +
       numQuestion +
       "</br>";
     if (nombreBonnesReponses === 4) {
@@ -201,27 +183,27 @@ boutonSuivant.onclick = function () {
         output +
         "Vous avez probablement appris des choses dans ce quizz, on espère que cela vous sera utile !";
     }
-
     output =
       output +
-      "</br></br></br> En résumé : </br> L'Organisation des Nations Unis avertit : si la population mondiale atteint les 9.6 milliards d'individus d'ici 2050, l'&eacutequivalent de pr&egraves de trois plan&egravetes pourrait &ecirctre n&eacutecessaire afin de fournir les ressources n&eacutecessaires pour maintenir nos modes de vie actuels." +
-      "</br></br> Bien que la plupart des incidences de notre alimentation sur l'environnement se produisent lors de la phase de production (agriculture ou transformation des aliments) (visualisation 1, 3 et 4), les m&eacutenages influencent &eacutegalement ces effets &agrave travers leurs choix et leurs habitudes alimentaires (visualisation 1, 2 et 3) Bas&eacutes sur un sch&eacutema qui &eacutepuise nos ressources naturelles d'un c&ocirct&eacute et accumule massivement les d&eacutechets de l'autre, nos modes de production et de consommation ne sont pas viables. L’&eacutevolution des comportements de consommation et de production constitue donc un levier essentiel pour r&eacuteduire notre empreinte carbone." +
-      "</br></br> Voici quelques conseils &agrave la port&eacutee de tous pour agir collectivement :" +
+      "</br></br></br> Quelques infos supplémentaires : </br> Si la population mondiale atteint les 9,6 milliards d'individus d’ici 2050, l’équivalent de près de trois planètes pourrait être nécessaire afin de fournir les ressources nécessaires pour maintenir les modes de vie actuels." +
+      "</br> Bien que la plupart des incidences de l’environnement sur l’alimentation se produisent dans la phase de production (agriculture ou transformation des aliments) (VISU 1 et 3), les ménages influencent également ces effets à travers leurs choix et leurs habitudes alimentaires (VISU 2) Basés sur un schéma qui épuise nos ressources naturelles d’un côté et accumule massivement les déchets de l’autre, nos modes de production et de consommation ne sont pas viables. L’évolution des comportements de consommation et de production constitue donc un levier essentiel pour réduire notre empreinte carbone. " +
+      "</br></br> Voici quelques conseils à la portée de tous pour agir collectivement : " +
+      "</br> - Mangez moins de produits animaux" +
+      "</br> - Mangez local MAIS SURTOUT de saison, puisque c'est la façon de produire qui est la plus coûteuse écologiquement parlant (devant les transports)" +
+      "</br> - Choisissez les filières directes" +
+      "</br> - N’achetez que ce dont vous avez besoin, réutilisez les restes ou partagez-les/échangez-les" +
+      "</br> - Faites un peu de place pour les façons de produire alternatives, aucune solution n’est idéale pour l’instant" +
       "</h2>";
-
     zoneQuizz.innerHTML = output;
   }
 };
-
 boutonRecommencer.onclick = function () {
   window.location.reload();
 };
-
 liste_visu.push(document.getElementById("visu1"));
 liste_visu.push(document.getElementById("visu2"));
 liste_visu.push(document.getElementById("visu2_2"));
 liste_visu.push(document.getElementById("visu3"));
-
 function setClickEvent() {
   // Add click event on answers items
   const answers = document.querySelectorAll(".question--answers li");
