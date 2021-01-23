@@ -9,7 +9,7 @@ Nous savons que simplement présenter des faits et des chiffres n'est pas toujou
 Le quiz :  <a href="https://shoneildray.github.io/Nourriture_et_Environnement_ProjetDataViz2020/index.html"> C'est par ici </a> !
 </br>
 </br>
-Projet réalisé dans le cadre de l'UE Data Visualisation des Masters Data Science & IA - Université Claude Bernard Lyon 1  
+Projet réalisé dans le cadre de l'UE Data Visualisation des Masters Data Science & IA, Université Claude Bernard Lyon 1  
 </br>
 </br>
 Pour plus d'informations, voir la <a href="https://github.com/Shoneildray/Nourriture_et_Environnement_ProjetDataViz2020/wiki"> page Wiki du projet </a>.
