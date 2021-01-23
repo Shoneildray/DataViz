@@ -166,8 +166,9 @@ boutonSuivant.onclick = function () {
     boutonRecommencer.hidden = false;
     var output =
       '<h3 class="question--counter"> <b> Vos résultats : </b> </h3><h2 class="question--query">' +
+      "Vous avez eu " +
       nombreBonnesReponses +
-      " sur " +
+      " bonnes réponses sur " +
       numQuestion +
       "</br>";
     if (nombreBonnesReponses === 4) {
