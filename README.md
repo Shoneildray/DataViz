@@ -26,7 +26,7 @@ Nowadays, we often hear about ecology when it comes to water or electricity cons
 We know that simply presenting facts and figures is not always a very efficient way to get people to understand the importance of various concepts, so we suggest you test your knowledge of this subject through a quiz which will enlighten you about the real cost of what you eat, and how to have more eco-friendly meals.
 </br>
 </br>
-Le quiz :  <a href="https://shoneildray.github.io/Nourriture_et_Environnement_ProjetDataViz2020/index.html"> C'est par ici </a> !
+Le quiz :  <a href="https://shoneildray.github.io/Nourriture_et_Environnement_ProjetDataViz2020/index.html"> Over here ! </a> !
 </br>
 </br>
 This project has been made during the Data Vizualisation course of Data Science and AI masters at Université Claude Bernard Lyon 1
