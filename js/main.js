@@ -166,7 +166,9 @@ boutonSuivant.onclick = function () {
     boutonRecommencer.hidden = false;
     var output =
       '<h3 class="question--counter">' +
+      "<FONT size="10pt">" +
       "<b> Vos résultats ! </b>" + 
+      "</FONT>" +
       "</h3>" +
       '<h2 class="question--query">' +
       "<b>" +
