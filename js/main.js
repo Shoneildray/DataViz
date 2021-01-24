@@ -202,7 +202,7 @@ boutonSuivant.onclick = function () {
       "</br></br> Voici quelques conseils &agrave la port&eacutee de tous pour agir collectivement : </br> " +
       "<ul>" +
       "<li>" +
-      "Mangez moins de produits animaux" +
+      "Mangez moins de produits d'origine animale" +
       "</li>" +
       "<li>" +
       "Mangez local <u>mais avant tout</u> de saison, puisque l'aspect le plus probl&eacutematique &eacutecologiquement parlant est la façon de produire, devant les transports. Qu'ils soient produits localement localement sous serre ou import&eacutes de r&eacutegion lointaines, les l&eacutegumes et fruits d'&eacutet&eacute consomm&eacutes l'hiver ont un lourd bilan carbone" +
