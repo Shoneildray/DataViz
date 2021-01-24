@@ -166,7 +166,7 @@ boutonSuivant.onclick = function () {
     boutonRecommencer.hidden = false;
     var output =
       '<h3 class="question--counter">' +
-      '<p><font size="10">' +
+      '<p><font size="8">' +
       "<b> Vos résultats ! </b>" + 
       "</font></p>" +
       "</h3>" +
@@ -194,7 +194,9 @@ boutonSuivant.onclick = function () {
     output =
       output +
       '<p align="center">' +
+      '<p><font size="5">' +
       "</br> <b> Un petit r&eacutesum&eacute ? </b>" + 
+      "</font></p>" +
       "</p>" +
       '<p align="justify">' +
       "</br> L'Organisation des Nations Unis avertit : si la population mondiale atteint les 9,6 milliards d'individus d'ici 2050, l'&eacutequivalent de pr&egraves de trois plan&egravetes pourrait &ecirctre n&eacutecessaire afin de fournir les ressources n&eacutecessaires pour maintenir nos modes de vie actuels." +
