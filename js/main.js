@@ -34,7 +34,7 @@ var questions = [
   },
   {
     question:
-      "Entre 1990 et 2018, l'utilisation de pesticides dans le monde a augmenté de :",
+      "Nous avons évoqué l'impact environnemental de la production alimentaire en termes de gaz à effet de serre, mais qu'en est-il de la pollution des sols et de ses conséquences sur la biosdiversité ? D'après vous, de quel pourcentage l'utilisation de pesticides a-t-elle augmenté dans le monde entre 1990 et 2018 ? :",
     answers: {
       a: "20%",
       b: "45%",
