@@ -193,7 +193,7 @@ boutonSuivant.onclick = function () {
     }
     output =
       output +
-      '<p align="center"><font size="5">' +
+      '<p><font size="5">' +
       "</br> <b> Un petit r&eacutesum&eacute ? </b>" + 
       "</font></p>" +
       '<p align="justify">' +
@@ -205,7 +205,7 @@ boutonSuivant.onclick = function () {
       "Mangez moins de produits animaux" +
       "</li>" +
       "<li>" +
-      "Mangez local MAIS AVANT TOUT de saison, puisque l'aspect le plus probl&eacutematique &eacutecologiquement parlant est la façon de produire, devant les transports. Qu'ils soient produits localement localement sous serre ou import&eacutes de r&eacutegion lointaines, les l&eacutegumes et fruits d'&eacutet&eacute consomm&eacutes l'hiver ont un lourd bilan carbone" +
+      "Mangez local <u>mais avant tout</u> de saison, puisque l'aspect le plus probl&eacutematique &eacutecologiquement parlant est la façon de produire, devant les transports. Qu'ils soient produits localement localement sous serre ou import&eacutes de r&eacutegion lointaines, les l&eacutegumes et fruits d'&eacutet&eacute consomm&eacutes l'hiver ont un lourd bilan carbone" +
       "</li>" +
       "<li>" +
       "Privil&eacutegiez les fili&egraveres directes, les march&eacute et les commerces de proximit&eacutes" +
