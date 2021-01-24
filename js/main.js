@@ -1,7 +1,7 @@
 var questions = [
   {
     question:
-      "Vous avez certainement déjà entendu dire que notre consommation de viande est problématique, mais avez-vous une idée de l’écart entre l’empreinte carbone des produits d’origine animale et celle des produits d’origine non animale ?",
+      "Vous avez certainement déjà entendu dire que notre consommation de viande était problématique, mais avez-vous une idée de l’écart entre l’empreinte carbone des produits d’origine animale et celle des produits d’origine non animale ?",
     answers: {
       a: "4 fois plus élevé",
       b: "7 fois plus élevé",
@@ -34,7 +34,7 @@ var questions = [
   },
   {
     question:
-      "Nous avons évoqué l'impact environnemental de la production alimentaire en termes de gaz à effet de serre, mais qu'en est-il de la pollution des sols et de ses conséquences sur la biosdiversité ? D'après vous, de quel pourcentage l'utilisation de pesticides a-t-elle augmenté dans le monde entre 1990 et 2018 ? :",
+      "Nous avons évoqué l'impact environnemental de la production alimentaire en termes de gaz à effet de serre, mais qu'en est-il de la pollution des sols et de ses conséquences sur la biosdiversité ? D'après vous, de quel pourcentage l'utilisation de pesticides a-t-elle augmenté dans le monde entre 1990 et 2018 ?",
     answers: {
       a: "20%",
       b: "45%",
