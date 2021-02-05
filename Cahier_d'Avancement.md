@@ -96,5 +96,5 @@
 **Jusqu'au 20/01/2021**  
              > Derniers changements sur les visualisations  
              > Point Discord informel avec l'enseignant pour discuter des dernières modifications   
-**Jusqu'au 22/01/2021**
-             > Rédaction des textes accompagnant les visualisations (retard de Elena)
+**Jusqu'au 22/01/2021**   
+             > Rédaction des textes accompagnant les visualisations (retard de Elena)  
