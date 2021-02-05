@@ -91,4 +91,10 @@
              
 **15/01/2021**  
              > Point Discord avec l'enseignant pour discuter de la visualisation n°2.2  
-             > Choix de partir sur un [Small multiples](https://www.thinkoutsidetheslide.com/wp-content/uploads/2015/04/SmallMultiples488.png)  
+             > Choix de partir sur un [Small multiples](https://www.thinkoutsidetheslide.com/wp-content/uploads/2015/04/SmallMultiples488.png) 
+
+**Jusqu'au 20/01/2021**  
+             > Derniers changements sur les visualisations  
+             > Point Discord informel avec l'enseignant pour discuter des dernières modifications   
+**Jusqu'au 22/01/2021**
+             > Rédaction des textes accompagnant les visualisations (retard de Elena)
